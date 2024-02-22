@@ -1,0 +1,1201 @@
+Day,TimeOfDay,Origin,Destination,TravelMode,TravelDuration,Season,TravelVolume,CostOfTravel,Delay,CustomerRating
+Friday,afternoon,Pune,Uttar Pradesh,aeroplane,100,rainy,660,0,25,4.2
+Wednesday,afternoon,Punjab,Kolkata,bus,150,autumn,30,320,5,4.7
+Tuesday,morning,Lucknow,Pune,bus,370,rainy,100,560,60,3.4
+Thursday,afternoon,Kolkata,Uttar Pradesh,train,290,autumn,1760,550,135,2.7
+Monday,afternoon,Pune,Varanasi,train,250,winter,810,60,10,4.0
+Thursday,afternoon,Haryana,Varanasi,aeroplane,70,rainy,730,0,35,3.9
+Thursday,evening,Uttar Pradesh,Haryana,train,250,summer,2000,450,45,3.9
+Saturday,afternoon,Lucknow,Uttar Pradesh,aeroplane,100,rainy,680,0,40,3.8
+Sunday,morning,Varanasi,Haryana,train,240,rainy,1560,700,45,3.1
+Monday,afternoon,Pune,Delhi,aeroplane,110,rainy,630,0,35,3.6
+Tuesday,morning,Haryana,Kolkata,aeroplane,100,rainy,800,0,15,4.3
+Sunday,evening,Kolkata,Pune,bus,150,spring,110,220,35,3.5
+Saturday,afternoon,Varanasi,Kolkata,bus,60,summer,20,370,30,4.5
+Tuesday,morning,Pune,Haryana,aeroplane,90,rainy,820,0,55,3.6
+Friday,afternoon,Uttar Pradesh,Pune,aeroplane,40,rainy,640,0,30,4.2
+Wednesday,afternoon,Kolkata,Pune,train,140,summer,1180,600,65,2.3
+Thursday,evening,Lucknow,Uttar Pradesh,train,190,summer,1870,520,130,1.5
+Thursday,morning,Lucknow,Delhi,bus,310,autumn,20,330,55,3.3
+Wednesday,evening,Kolkata,Pune,bus,230,winter,70,450,55,3.2
+Wednesday,morning,Pune,Haryana,bus,170,winter,70,120,5,4.5
+Friday,morning,Lucknow,Kolkata,bus,180,summer,60,180,70,1.2
+Monday,afternoon,Kolkata,Punjab,train,140,rainy,1380,1050,140,2.6
+Monday,afternoon,Kolkata,Delhi,train,210,autumn,1150,450,90,2.0
+Sunday,morning,Punjab,Varanasi,bus,180,summer,110,140,15,4.3
+Sunday,afternoon,Delhi,Punjab,train,160,autumn,760,190,90,3.0
+Monday,evening,Uttar Pradesh,Varanasi,bus,360,spring,80,50,10,4.3
+Thursday,evening,Punjab,Uttar Pradesh,bus,170,autumn,80,430,105,2.2
+Monday,afternoon,Punjab,Pune,bus,400,summer,90,200,55,3.4
+Thursday,morning,Varanasi,Delhi,bus,330,spring,20,140,145,1.6
+Wednesday,afternoon,Kolkata,Uttar Pradesh,train,230,rainy,1060,980,30,4.8
+Thursday,afternoon,Lucknow,Delhi,bus,370,autumn,10,40,50,3.0
+Saturday,morning,Uttar Pradesh,Varanasi,train,230,autumn,1560,320,95,1.9
+Wednesday,morning,Varanasi,Kolkata,aeroplane,110,rainy,630,0,70,1.3
+Sunday,evening,Delhi,Punjab,train,180,summer,1810,200,130,1.6
+Monday,afternoon,Kolkata,Delhi,train,290,rainy,1250,1080,50,3.9
+Tuesday,afternoon,Varanasi,Uttar Pradesh,bus,90,rainy,30,730,145,1.1
+Sunday,evening,Punjab,Kolkata,train,150,autumn,1070,230,125,2.7
+Monday,evening,Haryana,Pune,train,130,autumn,940,660,10,4.8
+Friday,afternoon,Uttar Pradesh,Varanasi,train,220,spring,1870,90,100,2.3
+Tuesday,evening,Uttar Pradesh,Lucknow,train,260,winter,610,650,60,3.1
+Friday,evening,Varanasi,Haryana,aeroplane,30,rainy,600,0,60,3.9
+Saturday,evening,Pune,Haryana,bus,290,rainy,10,580,70,2.2
+Thursday,evening,Pune,Punjab,aeroplane,110,rainy,650,0,30,4.1
+Monday,evening,Varanasi,Kolkata,train,260,summer,970,480,85,1.9
+Saturday,morning,Delhi,Pune,aeroplane,30,rainy,720,0,70,2.8
+Tuesday,evening,Uttar Pradesh,Kolkata,aeroplane,80,rainy,570,0,5,4.5
+Sunday,evening,Varanasi,Uttar Pradesh,bus,210,autumn,90,160,140,1.8
+Monday,morning,Uttar Pradesh,Delhi,aeroplane,70,rainy,570,0,15,4.4
+Wednesday,morning,Delhi,Punjab,bus,70,summer,40,220,85,2.3
+Tuesday,evening,Varanasi,Haryana,train,280,autumn,1110,240,60,3.7
+Friday,morning,Varanasi,Punjab,bus,300,spring,20,370,100,1.8
+Sunday,afternoon,Haryana,Delhi,train,150,spring,1890,570,25,4.8
+Monday,morning,Delhi,Pune,train,200,winter,1860,440,20,4.4
+Monday,afternoon,Uttar Pradesh,Lucknow,bus,340,spring,90,380,145,1.9
+Monday,afternoon,Punjab,Varanasi,bus,110,winter,50,120,45,4.0
+Tuesday,morning,Lucknow,Kolkata,aeroplane,110,rainy,690,0,75,1.2
+Tuesday,evening,Uttar Pradesh,Delhi,bus,310,rainy,50,480,30,4.7
+Friday,evening,Varanasi,Lucknow,aeroplane,30,rainy,830,0,65,2.8
+Sunday,morning,Delhi,Kolkata,bus,190,spring,80,260,20,4.8
+Wednesday,evening,Lucknow,Kolkata,train,130,autumn,670,260,130,1.1
+Sunday,morning,Uttar Pradesh,Lucknow,aeroplane,30,rainy,820,0,115,1.2
+Friday,evening,Delhi,Pune,train,160,rainy,1170,520,50,3.9
+Wednesday,morning,Lucknow,Varanasi,aeroplane,40,rainy,490,0,150,1.3
+Sunday,afternoon,Delhi,Pune,bus,110,autumn,30,480,15,5.0
+Thursday,morning,Kolkata,Lucknow,train,210,spring,580,360,30,4.1
+Wednesday,evening,Delhi,Varanasi,aeroplane,40,rainy,670,0,145,2.8
+Tuesday,afternoon,Varanasi,Pune,bus,360,winter,80,20,60,3.9
+Friday,afternoon,Punjab,Lucknow,bus,120,summer,110,250,15,4.6
+Saturday,afternoon,Pune,Delhi,aeroplane,70,rainy,570,0,105,1.8
+Sunday,evening,Delhi,Lucknow,bus,250,rainy,110,570,25,4.8
+Tuesday,afternoon,Varanasi,Haryana,bus,140,winter,10,60,5,4.2
+Thursday,afternoon,Delhi,Punjab,aeroplane,50,rainy,720,0,120,2.7
+Monday,evening,Haryana,Varanasi,bus,280,autumn,70,410,115,2.0
+Friday,morning,Pune,Kolkata,train,180,autumn,930,150,40,3.6
+Sunday,afternoon,Haryana,Pune,aeroplane,90,rainy,780,0,80,1.8
+Wednesday,morning,Pune,Haryana,bus,340,spring,20,190,145,2.0
+Friday,evening,Uttar Pradesh,Varanasi,train,170,summer,700,170,45,3.2
+Monday,afternoon,Punjab,Kolkata,aeroplane,100,rainy,560,0,120,2.4
+Monday,afternoon,Uttar Pradesh,Varanasi,aeroplane,50,rainy,560,0,65,1.4
+Friday,evening,Punjab,Lucknow,train,180,rainy,1330,860,15,4.2
+Saturday,evening,Haryana,Delhi,bus,130,summer,60,130,60,3.9
+Monday,evening,Pune,Varanasi,bus,60,winter,110,260,50,3.4
+Tuesday,afternoon,Lucknow,Pune,train,240,rainy,1160,1070,60,3.1
+Sunday,evening,Punjab,Kolkata,aeroplane,40,rainy,760,0,115,1.5
+Friday,evening,Delhi,Kolkata,aeroplane,80,rainy,740,0,90,1.7
+Monday,morning,Uttar Pradesh,Delhi,bus,120,summer,80,240,110,2.0
+Saturday,evening,Uttar Pradesh,Kolkata,aeroplane,30,rainy,840,0,85,1.8
+Thursday,evening,Varanasi,Pune,train,170,rainy,1900,630,25,4.2
+Saturday,afternoon,Pune,Uttar Pradesh,train,180,winter,1250,290,35,3.4
+Saturday,evening,Uttar Pradesh,Kolkata,aeroplane,30,rainy,800,0,135,3.0
+Wednesday,evening,Lucknow,Pune,bus,250,autumn,20,40,45,3.2
+Thursday,afternoon,Haryana,Pune,bus,70,winter,20,60,5,4.6
+Friday,evening,Kolkata,Lucknow,aeroplane,100,rainy,730,0,135,1.7
+Sunday,evening,Haryana,Lucknow,train,130,summer,820,360,105,1.0
+Sunday,evening,Delhi,Uttar Pradesh,aeroplane,60,rainy,560,0,95,2.9
+Thursday,evening,Lucknow,Uttar Pradesh,train,230,autumn,1660,630,35,3.9
+Thursday,morning,Kolkata,Lucknow,aeroplane,40,rainy,790,0,30,4.8
+Wednesday,afternoon,Varanasi,Lucknow,train,270,spring,1100,90,90,2.4
+Saturday,afternoon,Kolkata,Pune,bus,410,winter,30,150,55,3.9
+Wednesday,evening,Punjab,Kolkata,train,180,autumn,1050,490,15,4.9
+Saturday,afternoon,Delhi,Varanasi,aeroplane,60,rainy,630,0,40,3.8
+Wednesday,afternoon,Varanasi,Lucknow,bus,310,spring,100,330,10,4.5
+Saturday,evening,Haryana,Delhi,bus,210,spring,100,450,15,4.8
+Sunday,morning,Varanasi,Lucknow,train,270,autumn,1250,340,30,4.3
+Wednesday,evening,Varanasi,Uttar Pradesh,train,220,summer,800,410,140,2.8
+Tuesday,morning,Kolkata,Lucknow,bus,170,spring,50,470,100,2.8
+Sunday,evening,Varanasi,Lucknow,bus,150,summer,20,60,30,4.1
+Wednesday,afternoon,Delhi,Pune,bus,360,rainy,30,760,60,3.3
+Wednesday,afternoon,Lucknow,Kolkata,bus,360,winter,80,450,60,3.0
+Sunday,morning,Delhi,Uttar Pradesh,train,190,summer,1730,520,95,1.9
+Thursday,afternoon,Punjab,Uttar Pradesh,aeroplane,80,rainy,620,0,25,4.5
+Monday,morning,Lucknow,Varanasi,bus,120,autumn,30,160,115,2.3
+Thursday,morning,Pune,Delhi,bus,200,spring,70,200,105,2.0
+Saturday,afternoon,Delhi,Lucknow,aeroplane,80,rainy,680,0,65,1.4
+Friday,morning,Varanasi,Delhi,train,260,autumn,510,630,115,1.9
+Thursday,morning,Haryana,Pune,train,280,autumn,1330,310,55,3.9
+Tuesday,afternoon,Kolkata,Haryana,train,280,spring,580,100,35,3.7
+Monday,afternoon,Varanasi,Delhi,aeroplane,110,rainy,720,0,75,1.2
+Wednesday,afternoon,Pune,Varanasi,bus,150,summer,40,110,90,2.4
+Wednesday,morning,Kolkata,Lucknow,train,260,summer,500,370,10,4.7
+Friday,afternoon,Varanasi,Punjab,bus,240,summer,10,390,50,3.6
+Sunday,evening,Punjab,Haryana,aeroplane,110,rainy,590,0,140,2.7
+Saturday,morning,Varanasi,Pune,train,170,spring,1350,410,25,4.1
+Saturday,afternoon,Lucknow,Punjab,bus,170,winter,20,20,40,3.7
+Monday,evening,Delhi,Kolkata,train,120,summer,940,70,110,2.4
+Saturday,evening,Varanasi,Punjab,bus,100,spring,50,430,35,3.6
+Tuesday,afternoon,Delhi,Pune,bus,400,rainy,40,820,135,2.5
+Friday,morning,Haryana,Varanasi,bus,230,winter,40,480,125,1.8
+Saturday,afternoon,Haryana,Varanasi,bus,360,rainy,50,780,30,4.4
+Thursday,morning,Kolkata,Punjab,aeroplane,60,rainy,700,0,55,3.5
+Saturday,morning,Pune,Lucknow,bus,300,spring,30,480,85,2.0
+Tuesday,morning,Varanasi,Punjab,train,190,winter,790,60,130,2.0
+Monday,afternoon,Punjab,Haryana,aeroplane,30,rainy,700,0,110,2.4
+Tuesday,afternoon,Lucknow,Pune,bus,100,autumn,60,450,20,5.0
+Sunday,evening,Pune,Delhi,aeroplane,30,rainy,620,0,85,2.3
+Monday,evening,Lucknow,Pune,bus,320,autumn,40,370,30,4.0
+Monday,afternoon,Haryana,Kolkata,train,200,summer,890,380,120,2.5
+Wednesday,afternoon,Punjab,Haryana,bus,140,spring,50,490,150,2.0
+Saturday,afternoon,Pune,Delhi,aeroplane,80,rainy,770,0,100,2.8
+Sunday,afternoon,Punjab,Haryana,aeroplane,40,rainy,850,0,5,4.8
+Tuesday,morning,Delhi,Lucknow,bus,160,summer,60,240,35,3.0
+Friday,evening,Pune,Varanasi,aeroplane,60,rainy,770,0,30,4.8
+Friday,morning,Varanasi,Pune,aeroplane,30,rainy,830,0,85,2.5
+Wednesday,morning,Lucknow,Delhi,train,230,summer,820,190,40,3.0
+Saturday,afternoon,Delhi,Lucknow,bus,360,winter,100,460,140,2.9
+Friday,afternoon,Varanasi,Lucknow,train,150,autumn,1580,270,55,3.1
+Friday,afternoon,Kolkata,Uttar Pradesh,train,230,autumn,1880,370,110,1.4
+Monday,evening,Haryana,Delhi,aeroplane,30,rainy,470,0,5,4.6
+Monday,afternoon,Pune,Delhi,train,180,autumn,910,110,145,1.3
+Saturday,morning,Kolkata,Punjab,bus,140,winter,80,410,105,1.2
+Wednesday,morning,Delhi,Uttar Pradesh,bus,250,winter,110,340,10,4.3
+Wednesday,afternoon,Delhi,Lucknow,train,240,autumn,1690,650,150,1.2
+Thursday,morning,Uttar Pradesh,Lucknow,bus,140,summer,50,310,65,2.2
+Tuesday,afternoon,Haryana,Uttar Pradesh,bus,290,winter,20,230,80,2.3
+Wednesday,morning,Delhi,Uttar Pradesh,bus,100,winter,60,180,100,2.2
+Sunday,morning,Lucknow,Uttar Pradesh,aeroplane,70,rainy,780,0,35,3.8
+Friday,evening,Haryana,Uttar Pradesh,aeroplane,60,rainy,550,0,100,2.1
+Thursday,afternoon,Varanasi,Lucknow,train,130,autumn,1630,280,20,4.1
+Friday,afternoon,Haryana,Varanasi,train,270,summer,1750,270,65,1.8
+Friday,morning,Pune,Lucknow,train,260,spring,1760,370,20,4.8
+Saturday,morning,Delhi,Punjab,train,230,autumn,700,350,15,5.0
+Thursday,afternoon,Varanasi,Uttar Pradesh,aeroplane,80,rainy,480,0,30,4.0
+Sunday,afternoon,Lucknow,Kolkata,aeroplane,80,rainy,500,0,30,4.9
+Monday,afternoon,Punjab,Lucknow,aeroplane,50,rainy,630,0,75,1.4
+Saturday,evening,Haryana,Kolkata,aeroplane,50,rainy,660,0,85,2.9
+Friday,morning,Kolkata,Uttar Pradesh,aeroplane,100,rainy,830,0,85,1.8
+Wednesday,afternoon,Delhi,Lucknow,bus,110,spring,50,20,65,2.7
+Tuesday,afternoon,Kolkata,Uttar Pradesh,aeroplane,100,rainy,530,0,145,1.2
+Wednesday,evening,Kolkata,Pune,train,250,rainy,1450,980,135,1.4
+Saturday,evening,Pune,Delhi,aeroplane,40,rainy,710,0,85,1.9
+Thursday,afternoon,Lucknow,Delhi,train,230,summer,1860,630,140,3.0
+Tuesday,evening,Delhi,Lucknow,train,220,autumn,1820,150,140,2.4
+Monday,morning,Punjab,Delhi,train,270,spring,1170,290,100,2.0
+Friday,evening,Delhi,Haryana,bus,130,spring,40,420,105,1.3
+Saturday,evening,Pune,Haryana,train,260,summer,600,470,50,4.0
+Wednesday,evening,Varanasi,Punjab,bus,320,winter,110,230,45,3.7
+Thursday,evening,Kolkata,Haryana,train,230,autumn,880,50,85,2.1
+Saturday,evening,Lucknow,Haryana,aeroplane,30,rainy,600,0,45,3.2
+Tuesday,evening,Lucknow,Punjab,aeroplane,40,rainy,490,0,45,3.6
+Saturday,morning,Punjab,Kolkata,bus,170,rainy,60,800,45,3.6
+Saturday,morning,Haryana,Uttar Pradesh,bus,110,autumn,40,210,35,3.2
+Sunday,morning,Lucknow,Kolkata,aeroplane,100,rainy,770,0,95,2.9
+Thursday,morning,Haryana,Lucknow,train,130,spring,650,610,100,2.2
+Tuesday,evening,Haryana,Lucknow,aeroplane,60,rainy,730,0,40,3.3
+Saturday,morning,Punjab,Haryana,aeroplane,40,rainy,510,0,25,4.7
+Thursday,evening,Punjab,Haryana,aeroplane,70,rainy,480,0,80,2.0
+Saturday,morning,Varanasi,Lucknow,bus,370,spring,20,240,85,2.2
+Wednesday,morning,Lucknow,Delhi,bus,80,summer,40,240,5,4.3
+Thursday,morning,Kolkata,Uttar Pradesh,aeroplane,70,rainy,760,0,140,2.8
+Tuesday,morning,Lucknow,Pune,train,190,winter,1780,180,20,4.6
+Monday,evening,Uttar Pradesh,Delhi,bus,160,rainy,60,790,50,3.8
+Sunday,afternoon,Uttar Pradesh,Varanasi,train,220,autumn,1450,380,130,1.2
+Tuesday,morning,Varanasi,Uttar Pradesh,bus,170,autumn,80,490,60,3.3
+Saturday,evening,Delhi,Uttar Pradesh,bus,300,autumn,50,140,50,4.0
+Sunday,afternoon,Pune,Kolkata,train,270,spring,1810,200,130,1.3
+Tuesday,afternoon,Uttar Pradesh,Haryana,train,200,winter,1510,400,105,2.7
+Tuesday,morning,Lucknow,Kolkata,aeroplane,110,rainy,580,0,145,2.7
+Thursday,afternoon,Pune,Delhi,bus,360,spring,40,10,35,3.7
+Monday,evening,Varanasi,Lucknow,train,180,winter,1680,130,15,4.8
+Monday,afternoon,Varanasi,Kolkata,train,240,spring,510,500,85,2.8
+Friday,afternoon,Pune,Punjab,bus,400,winter,90,150,65,1.7
+Friday,afternoon,Pune,Kolkata,bus,360,winter,40,440,105,1.1
+Saturday,evening,Punjab,Pune,train,290,winter,1520,130,30,5.0
+Thursday,morning,Haryana,Pune,bus,210,winter,20,140,50,3.6
+Sunday,afternoon,Uttar Pradesh,Varanasi,aeroplane,90,rainy,770,0,110,2.9
+Sunday,afternoon,Varanasi,Lucknow,aeroplane,100,rainy,770,0,120,2.8
+Wednesday,afternoon,Delhi,Varanasi,aeroplane,90,rainy,750,0,145,1.7
+Friday,morning,Haryana,Pune,train,140,rainy,1250,700,140,1.6
+Tuesday,evening,Uttar Pradesh,Pune,bus,130,spring,100,350,95,1.4
+Tuesday,afternoon,Pune,Uttar Pradesh,bus,210,winter,50,450,45,3.9
+Saturday,afternoon,Uttar Pradesh,Varanasi,train,240,spring,1890,410,50,4.0
+Saturday,morning,Pune,Lucknow,train,250,summer,1020,50,125,1.7
+Tuesday,afternoon,Haryana,Delhi,bus,120,summer,30,30,100,1.8
+Tuesday,afternoon,Haryana,Delhi,train,180,winter,980,150,120,2.1
+Sunday,afternoon,Lucknow,Varanasi,aeroplane,60,rainy,480,0,140,1.5
+Monday,evening,Varanasi,Lucknow,bus,310,autumn,20,90,150,1.8
+Sunday,morning,Lucknow,Varanasi,bus,330,spring,60,30,70,2.4
+Friday,evening,Haryana,Kolkata,bus,410,spring,10,80,140,1.7
+Sunday,morning,Lucknow,Delhi,bus,370,summer,70,10,30,4.6
+Tuesday,afternoon,Kolkata,Lucknow,train,160,rainy,550,700,70,1.1
+Saturday,morning,Uttar Pradesh,Haryana,aeroplane,110,rainy,760,0,120,1.1
+Thursday,morning,Uttar Pradesh,Haryana,bus,340,winter,60,220,110,1.2
+Thursday,morning,Delhi,Kolkata,aeroplane,40,rainy,500,0,25,4.4
+Friday,morning,Kolkata,Lucknow,bus,340,rainy,90,860,35,3.1
+Saturday,evening,Kolkata,Uttar Pradesh,bus,200,spring,110,160,115,1.7
+Tuesday,afternoon,Delhi,Lucknow,bus,390,autumn,60,200,55,3.2
+Sunday,evening,Lucknow,Punjab,bus,300,summer,20,250,50,3.1
+Wednesday,evening,Haryana,Lucknow,train,270,autumn,1530,570,75,1.6
+Wednesday,evening,Punjab,Haryana,aeroplane,110,rainy,680,0,20,4.6
+Tuesday,morning,Haryana,Delhi,bus,360,winter,50,100,15,4.1
+Saturday,morning,Kolkata,Lucknow,aeroplane,70,rainy,490,0,145,1.7
+Tuesday,morning,Kolkata,Varanasi,aeroplane,90,rainy,640,0,15,5.0
+Friday,afternoon,Kolkata,Uttar Pradesh,train,130,summer,1480,490,135,1.0
+Tuesday,afternoon,Punjab,Pune,aeroplane,60,rainy,470,0,10,4.2
+Tuesday,morning,Lucknow,Punjab,aeroplane,80,rainy,550,0,140,1.3
+Saturday,evening,Delhi,Varanasi,aeroplane,30,rainy,550,0,145,1.1
+Sunday,morning,Uttar Pradesh,Varanasi,bus,410,spring,60,230,55,3.7
+Tuesday,afternoon,Lucknow,Kolkata,bus,170,rainy,110,520,95,2.0
+Friday,evening,Pune,Varanasi,bus,240,summer,70,230,80,2.2
+Sunday,morning,Pune,Haryana,bus,70,rainy,100,550,85,1.1
+Monday,afternoon,Kolkata,Uttar Pradesh,bus,240,autumn,70,410,55,3.3
+Saturday,evening,Varanasi,Haryana,train,290,rainy,1940,900,45,3.9
+Monday,morning,Delhi,Haryana,bus,180,spring,60,40,100,2.7
+Friday,afternoon,Haryana,Varanasi,aeroplane,60,rainy,730,0,80,2.8
+Wednesday,morning,Pune,Varanasi,bus,140,rainy,20,640,90,2.4
+Wednesday,morning,Varanasi,Punjab,bus,200,rainy,110,820,110,3.0
+Wednesday,afternoon,Uttar Pradesh,Kolkata,aeroplane,50,rainy,520,0,5,4.5
+Saturday,afternoon,Lucknow,Haryana,bus,280,winter,80,460,50,3.3
+Monday,morning,Uttar Pradesh,Pune,bus,170,summer,20,160,140,1.9
+Friday,morning,Haryana,Pune,aeroplane,40,rainy,760,0,35,3.7
+Sunday,morning,Punjab,Haryana,train,270,autumn,1340,170,115,2.9
+Friday,afternoon,Lucknow,Uttar Pradesh,train,230,rainy,620,990,120,2.8
+Sunday,evening,Uttar Pradesh,Delhi,bus,200,spring,110,210,90,2.5
+Thursday,morning,Delhi,Pune,bus,310,rainy,90,970,50,3.2
+Thursday,morning,Punjab,Kolkata,train,290,rainy,1870,1060,120,2.1
+Sunday,afternoon,Varanasi,Pune,bus,180,rainy,20,770,145,2.6
+Wednesday,morning,Uttar Pradesh,Lucknow,aeroplane,90,rainy,830,0,100,1.4
+Saturday,afternoon,Haryana,Lucknow,aeroplane,50,rainy,540,0,115,2.6
+Saturday,evening,Uttar Pradesh,Varanasi,train,170,spring,700,60,125,2.9
+Wednesday,afternoon,Delhi,Varanasi,aeroplane,90,rainy,780,0,105,1.2
+Thursday,evening,Pune,Varanasi,train,270,rainy,1990,850,40,3.2
+Friday,morning,Uttar Pradesh,Delhi,aeroplane,100,rainy,470,0,15,4.7
+Sunday,evening,Varanasi,Haryana,train,270,summer,650,230,60,3.3
+Wednesday,evening,Pune,Lucknow,bus,130,summer,110,130,100,2.0
+Thursday,evening,Kolkata,Varanasi,aeroplane,80,rainy,620,0,65,1.4
+Wednesday,afternoon,Punjab,Varanasi,aeroplane,80,rainy,590,0,45,3.2
+Thursday,afternoon,Lucknow,Uttar Pradesh,aeroplane,40,rainy,670,0,50,3.8
+Monday,evening,Punjab,Kolkata,bus,120,summer,60,270,110,1.0
+Friday,evening,Lucknow,Pune,bus,110,rainy,30,940,50,3.2
+Friday,morning,Varanasi,Lucknow,bus,130,rainy,110,480,5,4.0
+Wednesday,morning,Pune,Haryana,bus,150,winter,60,180,60,3.1
+Thursday,morning,Delhi,Kolkata,bus,160,spring,20,170,15,4.2
+Sunday,evening,Kolkata,Lucknow,bus,260,spring,80,310,110,1.1
+Monday,morning,Haryana,Uttar Pradesh,train,280,autumn,1590,440,145,2.8
+Tuesday,evening,Varanasi,Haryana,bus,220,summer,30,90,70,2.3
+Monday,afternoon,Haryana,Lucknow,aeroplane,110,rainy,810,0,130,2.9
+Monday,evening,Varanasi,Delhi,bus,250,summer,80,100,35,3.5
+Tuesday,evening,Varanasi,Lucknow,aeroplane,70,rainy,560,0,20,4.6
+Tuesday,morning,Lucknow,Pune,train,200,rainy,520,460,70,1.2
+Friday,afternoon,Kolkata,Punjab,train,190,spring,1070,660,65,2.0
+Friday,evening,Kolkata,Pune,aeroplane,90,rainy,840,0,120,2.0
+Sunday,evening,Kolkata,Varanasi,train,270,rainy,1500,500,115,1.1
+Wednesday,morning,Delhi,Pune,train,120,spring,1100,420,55,3.2
+Thursday,morning,Uttar Pradesh,Haryana,bus,140,winter,60,410,105,2.0
+Saturday,evening,Uttar Pradesh,Varanasi,aeroplane,100,rainy,830,0,5,4.9
+Monday,morning,Punjab,Pune,aeroplane,30,rainy,570,0,125,2.6
+Saturday,evening,Varanasi,Uttar Pradesh,train,130,winter,1310,60,130,1.8
+Friday,evening,Pune,Varanasi,bus,220,spring,40,110,60,3.2
+Monday,afternoon,Punjab,Lucknow,bus,250,winter,30,430,130,1.8
+Thursday,morning,Punjab,Lucknow,bus,190,autumn,70,440,125,1.9
+Thursday,morning,Pune,Uttar Pradesh,bus,270,summer,100,140,80,1.7
+Thursday,evening,Haryana,Lucknow,train,280,rainy,1040,590,85,2.5
+Saturday,morning,Delhi,Kolkata,bus,160,autumn,100,280,95,2.3
+Tuesday,evening,Uttar Pradesh,Lucknow,aeroplane,60,rainy,720,0,50,3.2
+Thursday,morning,Delhi,Varanasi,aeroplane,110,rainy,600,0,70,2.4
+Saturday,afternoon,Delhi,Kolkata,aeroplane,50,rainy,700,0,60,3.3
+Saturday,morning,Lucknow,Uttar Pradesh,aeroplane,30,rainy,820,0,80,2.8
+Saturday,afternoon,Punjab,Delhi,aeroplane,50,rainy,560,0,100,1.9
+Thursday,morning,Lucknow,Pune,train,150,autumn,1090,330,90,1.1
+Saturday,morning,Lucknow,Kolkata,aeroplane,80,rainy,740,0,30,4.0
+Sunday,morning,Pune,Lucknow,aeroplane,40,rainy,590,0,65,1.1
+Monday,morning,Delhi,Pune,bus,200,autumn,60,240,80,2.5
+Thursday,evening,Uttar Pradesh,Punjab,bus,180,winter,60,30,65,2.6
+Wednesday,afternoon,Lucknow,Uttar Pradesh,train,160,rainy,1160,670,140,2.3
+Monday,morning,Delhi,Punjab,aeroplane,70,rainy,800,0,80,1.9
+Wednesday,evening,Pune,Delhi,bus,290,rainy,60,350,135,2.4
+Thursday,evening,Uttar Pradesh,Varanasi,bus,120,spring,80,480,95,2.5
+Saturday,evening,Delhi,Kolkata,train,270,summer,1070,310,30,4.1
+Monday,morning,Uttar Pradesh,Haryana,bus,160,winter,110,430,145,2.2
+Monday,morning,Varanasi,Uttar Pradesh,bus,100,winter,70,150,45,3.8
+Sunday,morning,Delhi,Punjab,bus,250,summer,60,390,10,4.8
+Monday,morning,Delhi,Haryana,aeroplane,80,rainy,650,0,45,3.0
+Saturday,afternoon,Kolkata,Punjab,aeroplane,100,rainy,600,0,50,3.2
+Wednesday,morning,Kolkata,Uttar Pradesh,bus,160,spring,70,250,45,3.7
+Friday,morning,Uttar Pradesh,Haryana,aeroplane,70,rainy,810,0,85,2.4
+Saturday,morning,Haryana,Varanasi,aeroplane,60,rainy,550,0,85,2.8
+Wednesday,afternoon,Uttar Pradesh,Haryana,bus,310,rainy,110,610,55,3.6
+Tuesday,afternoon,Haryana,Pune,train,240,spring,1270,130,120,2.8
+Saturday,evening,Lucknow,Punjab,bus,320,autumn,70,320,45,3.4
+Saturday,morning,Varanasi,Lucknow,aeroplane,50,rainy,750,0,40,3.8
+Tuesday,afternoon,Lucknow,Punjab,bus,130,rainy,110,530,110,2.6
+Thursday,afternoon,Punjab,Uttar Pradesh,bus,120,autumn,60,170,60,3.0
+Sunday,evening,Uttar Pradesh,Delhi,bus,60,spring,50,70,65,1.7
+Friday,evening,Uttar Pradesh,Punjab,train,280,autumn,1500,520,130,2.2
+Friday,evening,Delhi,Pune,train,180,spring,1950,420,90,2.0
+Thursday,evening,Punjab,Lucknow,aeroplane,70,rainy,830,0,55,3.0
+Sunday,morning,Punjab,Lucknow,train,280,rainy,620,470,125,1.6
+Thursday,evening,Pune,Lucknow,bus,340,rainy,70,840,145,1.8
+Thursday,morning,Kolkata,Lucknow,bus,360,rainy,40,770,55,3.8
+Tuesday,evening,Punjab,Uttar Pradesh,bus,110,summer,90,440,130,1.5
+Sunday,afternoon,Uttar Pradesh,Punjab,bus,150,rainy,110,910,100,2.0
+Monday,afternoon,Punjab,Lucknow,train,220,winter,1260,210,85,1.3
+Friday,evening,Varanasi,Delhi,aeroplane,90,rainy,560,0,120,2.2
+Sunday,evening,Lucknow,Varanasi,bus,300,autumn,110,490,5,4.8
+Saturday,evening,Uttar Pradesh,Delhi,train,130,autumn,640,350,110,2.0
+Sunday,afternoon,Kolkata,Lucknow,train,220,autumn,1940,260,145,2.2
+Wednesday,evening,Kolkata,Delhi,bus,230,rainy,90,630,95,2.7
+Thursday,afternoon,Pune,Kolkata,bus,220,winter,80,130,85,2.3
+Sunday,evening,Delhi,Uttar Pradesh,aeroplane,80,rainy,790,0,15,5.0
+Sunday,evening,Varanasi,Kolkata,train,210,autumn,1400,360,130,2.3
+Monday,afternoon,Uttar Pradesh,Haryana,train,170,autumn,510,410,10,5.0
+Saturday,afternoon,Kolkata,Pune,aeroplane,90,rainy,760,0,25,4.6
+Friday,morning,Pune,Varanasi,bus,180,winter,50,40,105,1.8
+Saturday,evening,Haryana,Pune,aeroplane,100,rainy,820,0,75,1.2
+Friday,evening,Uttar Pradesh,Lucknow,bus,120,autumn,110,30,70,1.2
+Tuesday,evening,Pune,Haryana,train,130,spring,1810,340,140,1.6
+Sunday,afternoon,Kolkata,Lucknow,train,170,winter,1410,280,15,4.6
+Monday,morning,Varanasi,Punjab,train,150,winter,680,70,35,3.4
+Saturday,evening,Haryana,Varanasi,train,290,spring,1510,100,80,2.1
+Friday,afternoon,Pune,Uttar Pradesh,aeroplane,30,rainy,480,0,120,1.3
+Tuesday,afternoon,Haryana,Punjab,aeroplane,100,rainy,520,0,80,1.2
+Friday,evening,Delhi,Punjab,train,210,winter,1860,130,50,3.5
+Thursday,morning,Lucknow,Varanasi,bus,210,autumn,70,120,140,2.7
+Thursday,evening,Uttar Pradesh,Varanasi,aeroplane,80,rainy,610,0,85,2.8
+Wednesday,morning,Kolkata,Uttar Pradesh,bus,240,summer,40,430,60,3.6
+Tuesday,afternoon,Kolkata,Pune,aeroplane,110,rainy,700,0,15,4.2
+Wednesday,morning,Kolkata,Uttar Pradesh,aeroplane,50,rainy,560,0,25,4.5
+Friday,evening,Punjab,Varanasi,bus,160,spring,50,360,50,3.1
+Wednesday,morning,Kolkata,Lucknow,aeroplane,40,rainy,680,0,145,1.8
+Monday,evening,Haryana,Delhi,aeroplane,80,rainy,570,0,110,2.5
+Monday,afternoon,Varanasi,Haryana,train,120,spring,820,190,30,4.7
+Thursday,morning,Lucknow,Delhi,aeroplane,40,rainy,780,0,50,3.1
+Thursday,afternoon,Haryana,Lucknow,bus,130,rainy,50,510,85,1.2
+Monday,afternoon,Haryana,Uttar Pradesh,aeroplane,40,rainy,740,0,120,1.0
+Thursday,evening,Punjab,Delhi,train,180,spring,610,200,20,4.8
+Tuesday,afternoon,Kolkata,Uttar Pradesh,train,280,autumn,670,470,135,1.9
+Monday,morning,Kolkata,Varanasi,aeroplane,80,rainy,480,0,60,3.4
+Friday,morning,Kolkata,Punjab,aeroplane,80,rainy,630,0,75,2.7
+Friday,evening,Pune,Delhi,aeroplane,30,rainy,570,0,100,2.2
+Thursday,afternoon,Varanasi,Kolkata,train,120,summer,1620,440,120,2.6
+Tuesday,afternoon,Kolkata,Uttar Pradesh,aeroplane,60,rainy,500,0,25,4.4
+Thursday,afternoon,Punjab,Haryana,train,140,winter,1910,550,45,3.3
+Thursday,afternoon,Varanasi,Lucknow,aeroplane,50,rainy,790,0,50,3.9
+Thursday,morning,Lucknow,Pune,aeroplane,60,rainy,640,0,30,4.1
+Thursday,morning,Varanasi,Uttar Pradesh,aeroplane,80,rainy,630,0,15,4.4
+Saturday,morning,Haryana,Lucknow,train,150,summer,1210,350,145,1.9
+Saturday,morning,Punjab,Pune,bus,290,spring,40,220,75,2.6
+Thursday,evening,Punjab,Kolkata,bus,330,spring,110,260,50,3.4
+Saturday,morning,Punjab,Haryana,aeroplane,110,rainy,740,0,20,4.2
+Tuesday,evening,Lucknow,Pune,train,120,spring,1380,620,125,2.9
+Friday,evening,Punjab,Uttar Pradesh,train,120,rainy,860,450,100,1.6
+Wednesday,afternoon,Lucknow,Delhi,bus,240,spring,100,250,90,2.7
+Friday,evening,Uttar Pradesh,Delhi,bus,210,summer,50,480,105,2.7
+Saturday,morning,Kolkata,Punjab,aeroplane,90,rainy,830,0,145,1.0
+Saturday,afternoon,Uttar Pradesh,Delhi,aeroplane,60,rainy,600,0,90,2.5
+Thursday,morning,Delhi,Uttar Pradesh,train,280,autumn,1880,650,90,1.7
+Thursday,morning,Haryana,Lucknow,bus,150,summer,80,460,115,2.8
+Thursday,afternoon,Haryana,Lucknow,train,170,autumn,1560,150,135,1.1
+Tuesday,morning,Delhi,Pune,bus,280,spring,80,270,140,2.1
+Thursday,evening,Varanasi,Punjab,aeroplane,40,rainy,580,0,50,3.9
+Friday,evening,Haryana,Lucknow,aeroplane,110,rainy,710,0,120,1.4
+Wednesday,afternoon,Kolkata,Delhi,train,270,winter,970,320,130,1.8
+Sunday,morning,Kolkata,Punjab,train,140,summer,1520,330,120,1.9
+Saturday,morning,Varanasi,Kolkata,train,280,winter,1190,610,70,1.1
+Sunday,evening,Haryana,Kolkata,bus,370,spring,10,390,90,2.5
+Saturday,afternoon,Uttar Pradesh,Varanasi,aeroplane,60,rainy,710,0,145,1.8
+Saturday,morning,Haryana,Pune,bus,170,autumn,60,220,130,1.7
+Thursday,afternoon,Pune,Lucknow,train,170,rainy,1250,820,35,3.8
+Tuesday,afternoon,Kolkata,Punjab,train,120,winter,500,550,20,4.6
+Monday,afternoon,Uttar Pradesh,Kolkata,bus,410,winter,70,200,55,3.4
+Tuesday,afternoon,Delhi,Kolkata,aeroplane,90,rainy,470,0,125,2.5
+Monday,evening,Lucknow,Delhi,aeroplane,70,rainy,540,0,145,1.4
+Friday,afternoon,Uttar Pradesh,Varanasi,bus,120,winter,90,380,110,2.9
+Wednesday,evening,Delhi,Haryana,aeroplane,60,rainy,820,0,130,2.8
+Wednesday,afternoon,Delhi,Uttar Pradesh,train,170,winter,1790,360,85,2.4
+Wednesday,morning,Delhi,Haryana,bus,340,rainy,70,960,80,1.3
+Thursday,afternoon,Haryana,Delhi,aeroplane,30,rainy,850,0,25,4.7
+Saturday,afternoon,Varanasi,Kolkata,aeroplane,40,rainy,550,0,75,1.1
+Saturday,morning,Delhi,Varanasi,aeroplane,30,rainy,750,0,140,2.2
+Monday,evening,Delhi,Lucknow,bus,170,autumn,40,330,50,3.4
+Friday,afternoon,Punjab,Pune,train,160,spring,780,190,85,2.3
+Saturday,afternoon,Pune,Kolkata,aeroplane,80,rainy,720,0,30,4.3
+Monday,morning,Pune,Haryana,train,180,rainy,700,460,10,4.5
+Monday,morning,Uttar Pradesh,Pune,train,280,winter,1720,630,135,1.4
+Tuesday,evening,Delhi,Uttar Pradesh,train,140,summer,1960,340,20,4.3
+Thursday,afternoon,Lucknow,Uttar Pradesh,aeroplane,90,rainy,780,0,35,3.7
+Wednesday,evening,Lucknow,Kolkata,bus,410,winter,70,110,60,3.6
+Monday,afternoon,Varanasi,Uttar Pradesh,train,120,rainy,1600,760,50,3.0
+Thursday,evening,Kolkata,Lucknow,train,140,rainy,780,790,45,3.6
+Thursday,afternoon,Delhi,Haryana,bus,190,spring,80,250,50,3.2
+Saturday,morning,Kolkata,Lucknow,train,230,autumn,550,460,85,2.8
+Sunday,morning,Uttar Pradesh,Kolkata,aeroplane,100,rainy,720,0,95,2.2
+Tuesday,evening,Delhi,Haryana,bus,220,winter,30,120,50,3.0
+Saturday,morning,Delhi,Haryana,aeroplane,70,rainy,760,0,40,3.4
+Saturday,evening,Haryana,Uttar Pradesh,bus,390,summer,100,310,140,2.8
+Thursday,afternoon,Pune,Punjab,aeroplane,100,rainy,640,0,135,2.2
+Wednesday,evening,Delhi,Kolkata,aeroplane,110,rainy,540,0,135,2.6
+Thursday,morning,Pune,Delhi,train,150,winter,1060,230,85,1.8
+Wednesday,evening,Haryana,Uttar Pradesh,train,280,spring,1770,590,80,1.1
+Saturday,afternoon,Haryana,Kolkata,train,120,rainy,1370,630,130,2.5
+Tuesday,morning,Lucknow,Pune,bus,160,rainy,40,440,95,2.3
+Friday,afternoon,Pune,Punjab,aeroplane,60,rainy,540,0,130,1.6
+Tuesday,afternoon,Uttar Pradesh,Punjab,bus,330,rainy,70,690,55,3.2
+Thursday,evening,Pune,Varanasi,train,290,summer,810,140,115,1.2
+Wednesday,morning,Delhi,Pune,aeroplane,60,rainy,620,0,120,2.6
+Thursday,afternoon,Pune,Delhi,aeroplane,50,rainy,780,0,130,2.2
+Friday,afternoon,Varanasi,Kolkata,bus,210,spring,30,50,145,2.5
+Friday,evening,Varanasi,Haryana,train,210,winter,1930,280,125,1.7
+Thursday,evening,Uttar Pradesh,Punjab,bus,290,spring,20,220,50,3.4
+Sunday,evening,Punjab,Pune,aeroplane,30,rainy,640,0,35,3.4
+Tuesday,afternoon,Punjab,Uttar Pradesh,train,270,summer,1870,540,145,2.7
+Sunday,morning,Haryana,Lucknow,bus,300,rainy,40,700,20,4.2
+Monday,afternoon,Varanasi,Haryana,aeroplane,80,rainy,770,0,105,1.8
+Monday,afternoon,Delhi,Pune,bus,310,rainy,10,520,120,1.4
+Monday,evening,Haryana,Varanasi,bus,170,winter,100,100,80,1.4
+Saturday,morning,Uttar Pradesh,Punjab,aeroplane,100,rainy,810,0,15,4.5
+Saturday,morning,Varanasi,Pune,train,290,summer,1030,560,105,2.9
+Monday,morning,Uttar Pradesh,Varanasi,bus,140,summer,90,50,80,1.5
+Tuesday,morning,Varanasi,Punjab,aeroplane,110,rainy,470,0,65,2.2
+Thursday,afternoon,Pune,Lucknow,aeroplane,50,rainy,700,0,130,2.3
+Thursday,afternoon,Delhi,Haryana,train,180,winter,1650,250,60,3.8
+Sunday,evening,Varanasi,Pune,bus,410,rainy,90,500,60,3.2
+Thursday,evening,Delhi,Kolkata,bus,270,autumn,30,70,90,2.8
+Saturday,evening,Varanasi,Lucknow,train,190,summer,1960,310,15,4.3
+Monday,morning,Kolkata,Punjab,aeroplane,30,rainy,560,0,140,2.0
+Tuesday,evening,Pune,Delhi,train,250,autumn,1350,360,115,1.5
+Sunday,afternoon,Lucknow,Delhi,train,180,winter,1480,200,125,1.6
+Sunday,evening,Punjab,Varanasi,train,250,spring,830,250,30,4.2
+Saturday,evening,Varanasi,Kolkata,bus,150,autumn,90,10,60,3.0
+Monday,evening,Haryana,Pune,aeroplane,50,rainy,570,0,80,2.7
+Monday,evening,Haryana,Uttar Pradesh,bus,310,autumn,30,150,45,3.9
+Tuesday,afternoon,Punjab,Lucknow,bus,400,autumn,100,150,145,1.8
+Thursday,afternoon,Delhi,Uttar Pradesh,aeroplane,50,rainy,770,0,35,3.0
+Tuesday,morning,Pune,Lucknow,aeroplane,100,rainy,730,0,100,2.9
+Friday,evening,Varanasi,Lucknow,aeroplane,50,rainy,540,0,65,2.3
+Tuesday,evening,Punjab,Uttar Pradesh,bus,210,spring,60,220,90,2.9
+Sunday,morning,Lucknow,Haryana,aeroplane,80,rainy,520,0,15,4.5
+Tuesday,evening,Lucknow,Delhi,bus,70,autumn,40,400,150,1.7
+Sunday,afternoon,Lucknow,Haryana,bus,190,winter,70,350,85,2.5
+Monday,afternoon,Pune,Uttar Pradesh,train,290,winter,590,470,145,1.1
+Sunday,afternoon,Haryana,Delhi,aeroplane,100,rainy,740,0,40,3.8
+Wednesday,evening,Lucknow,Pune,train,130,rainy,1300,880,75,2.2
+Saturday,morning,Kolkata,Punjab,train,270,winter,1130,380,120,1.5
+Wednesday,afternoon,Lucknow,Pune,bus,290,autumn,60,220,90,2.8
+Wednesday,morning,Delhi,Uttar Pradesh,train,230,winter,1780,250,95,2.6
+Thursday,afternoon,Lucknow,Uttar Pradesh,bus,170,spring,60,280,65,2.8
+Saturday,afternoon,Varanasi,Punjab,train,290,spring,1060,320,50,3.3
+Sunday,morning,Haryana,Varanasi,aeroplane,60,rainy,600,0,40,3.1
+Wednesday,evening,Uttar Pradesh,Kolkata,bus,400,spring,20,50,30,4.4
+Thursday,morning,Varanasi,Lucknow,train,200,spring,1740,380,130,3.0
+Saturday,evening,Kolkata,Pune,aeroplane,40,rainy,770,0,100,1.3
+Tuesday,evening,Kolkata,Lucknow,aeroplane,70,rainy,580,0,60,3.5
+Sunday,afternoon,Delhi,Haryana,aeroplane,80,rainy,580,0,10,4.2
+Wednesday,morning,Delhi,Punjab,aeroplane,40,rainy,790,0,15,5.0
+Tuesday,afternoon,Delhi,Varanasi,bus,140,rainy,90,710,80,2.0
+Sunday,morning,Punjab,Varanasi,aeroplane,70,rainy,490,0,145,1.7
+Monday,evening,Uttar Pradesh,Punjab,bus,390,winter,110,400,80,2.2
+Sunday,evening,Haryana,Pune,aeroplane,100,rainy,750,0,80,2.3
+Saturday,morning,Lucknow,Kolkata,train,270,autumn,1760,450,100,2.9
+Saturday,morning,Kolkata,Pune,train,150,autumn,1400,430,80,2.1
+Sunday,morning,Pune,Varanasi,train,170,winter,1650,330,85,1.5
+Friday,morning,Lucknow,Uttar Pradesh,aeroplane,70,rainy,580,0,20,4.4
+Thursday,morning,Delhi,Pune,bus,330,summer,80,230,110,2.9
+Tuesday,afternoon,Kolkata,Punjab,aeroplane,40,rainy,700,0,20,4.6
+Sunday,morning,Lucknow,Haryana,train,220,rainy,1100,840,95,2.0
+Saturday,morning,Punjab,Lucknow,aeroplane,110,rainy,590,0,145,2.8
+Sunday,morning,Haryana,Varanasi,aeroplane,80,rainy,780,0,55,3.9
+Thursday,afternoon,Pune,Delhi,aeroplane,100,rainy,730,0,35,3.0
+Saturday,morning,Delhi,Lucknow,bus,130,autumn,70,280,65,2.2
+Wednesday,afternoon,Haryana,Pune,aeroplane,70,rainy,820,0,20,4.2
+Friday,morning,Haryana,Lucknow,aeroplane,80,rainy,810,0,105,1.0
+Saturday,morning,Kolkata,Punjab,bus,280,autumn,20,350,50,3.3
+Wednesday,afternoon,Haryana,Kolkata,aeroplane,40,rainy,480,0,30,4.8
+Wednesday,evening,Pune,Varanasi,train,290,autumn,550,310,55,3.7
+Thursday,afternoon,Delhi,Haryana,train,200,summer,750,400,105,1.6
+Tuesday,evening,Uttar Pradesh,Delhi,bus,260,summer,10,430,140,1.5
+Sunday,afternoon,Kolkata,Uttar Pradesh,train,140,summer,1770,550,120,2.3
+Tuesday,afternoon,Haryana,Varanasi,aeroplane,50,rainy,470,0,30,4.1
+Thursday,morning,Pune,Punjab,bus,100,summer,60,170,95,1.7
+Thursday,afternoon,Uttar Pradesh,Kolkata,aeroplane,30,rainy,720,0,90,2.5
+Friday,morning,Punjab,Haryana,bus,170,rainy,70,890,145,2.9
+Sunday,evening,Lucknow,Uttar Pradesh,bus,330,winter,10,80,115,1.1
+Sunday,afternoon,Uttar Pradesh,Kolkata,train,260,spring,1230,240,40,3.4
+Monday,afternoon,Delhi,Varanasi,aeroplane,90,rainy,660,0,5,4.1
+Friday,afternoon,Varanasi,Kolkata,bus,410,rainy,80,580,5,4.7
+Saturday,afternoon,Uttar Pradesh,Punjab,aeroplane,110,rainy,670,0,125,2.5
+Friday,evening,Kolkata,Varanasi,train,210,winter,1110,540,35,3.1
+Sunday,evening,Uttar Pradesh,Delhi,bus,170,winter,70,260,80,2.6
+Friday,evening,Lucknow,Punjab,aeroplane,40,rainy,490,0,90,1.3
+Saturday,morning,Lucknow,Delhi,train,280,rainy,1150,1050,15,4.5
+Thursday,evening,Varanasi,Punjab,bus,110,winter,30,230,30,4.9
+Saturday,evening,Haryana,Varanasi,aeroplane,90,rainy,710,0,150,1.7
+Saturday,morning,Delhi,Pune,aeroplane,70,rainy,840,0,145,2.2
+Thursday,afternoon,Punjab,Kolkata,bus,150,autumn,40,130,45,3.8
+Monday,afternoon,Varanasi,Lucknow,aeroplane,70,rainy,530,0,100,1.7
+Tuesday,evening,Varanasi,Pune,bus,290,spring,50,200,145,1.1
+Thursday,morning,Varanasi,Haryana,train,150,autumn,1250,180,25,5.0
+Sunday,morning,Pune,Delhi,train,120,spring,870,150,125,2.3
+Tuesday,evening,Punjab,Pune,train,230,rainy,1230,870,130,1.3
+Saturday,evening,Varanasi,Pune,bus,160,spring,100,420,10,4.3
+Tuesday,morning,Haryana,Kolkata,bus,260,spring,20,120,120,1.1
+Wednesday,afternoon,Punjab,Haryana,bus,150,spring,70,460,85,2.5
+Saturday,afternoon,Varanasi,Pune,train,260,autumn,1470,560,140,2.2
+Monday,evening,Pune,Lucknow,bus,310,winter,80,290,85,2.8
+Thursday,afternoon,Varanasi,Kolkata,train,140,spring,1760,290,115,1.9
+Tuesday,morning,Haryana,Pune,train,170,winter,1540,380,100,2.2
+Wednesday,afternoon,Haryana,Punjab,aeroplane,110,rainy,680,0,135,1.3
+Tuesday,morning,Kolkata,Lucknow,train,170,autumn,1850,290,20,4.9
+Saturday,morning,Punjab,Haryana,aeroplane,70,rainy,710,0,50,3.7
+Thursday,afternoon,Uttar Pradesh,Lucknow,train,240,summer,1320,330,80,1.5
+Sunday,afternoon,Pune,Kolkata,train,180,spring,510,190,45,3.8
+Thursday,morning,Varanasi,Delhi,bus,140,spring,40,130,95,2.3
+Sunday,evening,Varanasi,Pune,train,190,rainy,1700,470,40,3.7
+Sunday,evening,Pune,Uttar Pradesh,aeroplane,100,rainy,580,0,25,4.8
+Thursday,morning,Punjab,Kolkata,bus,380,spring,10,420,20,4.2
+Saturday,morning,Lucknow,Uttar Pradesh,aeroplane,110,rainy,500,0,145,1.5
+Thursday,evening,Lucknow,Varanasi,aeroplane,60,rainy,800,0,40,3.2
+Monday,morning,Pune,Kolkata,train,200,rainy,1410,930,25,4.7
+Tuesday,morning,Varanasi,Uttar Pradesh,train,250,summer,630,620,130,2.5
+Sunday,afternoon,Varanasi,Lucknow,aeroplane,80,rainy,760,0,70,1.9
+Tuesday,morning,Haryana,Punjab,train,280,rainy,1420,450,140,2.1
+Tuesday,afternoon,Uttar Pradesh,Kolkata,train,250,winter,1740,390,65,2.3
+Sunday,evening,Varanasi,Haryana,train,140,spring,1630,580,40,3.1
+Wednesday,afternoon,Punjab,Lucknow,train,140,winter,680,360,30,4.4
+Friday,evening,Uttar Pradesh,Delhi,train,150,winter,1340,410,120,1.4
+Friday,evening,Varanasi,Pune,bus,300,autumn,40,50,80,1.7
+Tuesday,morning,Haryana,Delhi,train,120,winter,1280,80,60,3.8
+Thursday,evening,Punjab,Varanasi,aeroplane,30,rainy,630,0,60,4.0
+Thursday,morning,Varanasi,Kolkata,bus,410,rainy,20,520,105,2.2
+Tuesday,evening,Lucknow,Haryana,train,150,rainy,1940,470,130,2.4
+Monday,morning,Uttar Pradesh,Delhi,train,150,autumn,1160,520,110,1.5
+Thursday,morning,Punjab,Lucknow,aeroplane,100,rainy,700,0,140,1.6
+Saturday,morning,Varanasi,Kolkata,aeroplane,70,rainy,760,0,15,4.1
+Sunday,evening,Delhi,Pune,bus,160,autumn,100,110,125,1.6
+Friday,afternoon,Punjab,Delhi,aeroplane,40,rainy,550,0,110,1.0
+Wednesday,afternoon,Pune,Varanasi,bus,260,rainy,80,920,25,4.7
+Wednesday,morning,Varanasi,Uttar Pradesh,aeroplane,30,rainy,680,0,90,1.2
+Saturday,afternoon,Pune,Kolkata,bus,110,summer,30,110,20,4.6
+Tuesday,morning,Delhi,Kolkata,aeroplane,30,rainy,810,0,85,2.4
+Monday,afternoon,Varanasi,Punjab,aeroplane,90,rainy,830,0,110,1.5
+Wednesday,evening,Pune,Uttar Pradesh,aeroplane,70,rainy,640,0,145,2.3
+Thursday,afternoon,Delhi,Pune,bus,400,autumn,90,470,45,3.5
+Sunday,afternoon,Punjab,Haryana,bus,190,spring,70,220,40,4.0
+Sunday,evening,Pune,Kolkata,aeroplane,50,rainy,510,0,15,4.0
+Saturday,evening,Punjab,Uttar Pradesh,train,230,summer,1740,620,100,2.6
+Saturday,afternoon,Punjab,Varanasi,aeroplane,40,rainy,830,0,65,3.0
+Saturday,evening,Uttar Pradesh,Haryana,aeroplane,80,rainy,590,0,50,3.7
+Friday,morning,Kolkata,Delhi,bus,170,winter,10,80,50,3.7
+Thursday,evening,Haryana,Uttar Pradesh,bus,270,rainy,30,540,115,1.7
+Friday,afternoon,Delhi,Pune,bus,220,autumn,40,360,20,4.1
+Thursday,morning,Lucknow,Pune,bus,130,winter,60,370,110,2.2
+Thursday,evening,Varanasi,Pune,train,180,winter,1800,210,75,2.0
+Tuesday,evening,Pune,Varanasi,aeroplane,80,rainy,630,0,5,4.2
+Thursday,morning,Uttar Pradesh,Haryana,aeroplane,110,rainy,730,0,5,4.0
+Friday,afternoon,Haryana,Delhi,bus,350,summer,50,290,35,3.9
+Thursday,morning,Haryana,Varanasi,aeroplane,70,rainy,720,0,35,3.6
+Saturday,evening,Delhi,Kolkata,aeroplane,30,rainy,500,0,25,4.5
+Saturday,evening,Uttar Pradesh,Varanasi,train,120,summer,1090,130,135,2.4
+Wednesday,morning,Kolkata,Lucknow,train,210,rainy,530,670,95,1.0
+Friday,afternoon,Delhi,Pune,bus,220,autumn,70,130,15,4.6
+Thursday,evening,Pune,Varanasi,train,120,autumn,920,470,110,1.1
+Thursday,afternoon,Haryana,Uttar Pradesh,train,230,summer,1100,70,130,2.3
+Monday,morning,Delhi,Kolkata,aeroplane,40,rainy,820,0,145,1.3
+Wednesday,afternoon,Kolkata,Uttar Pradesh,bus,320,summer,50,160,45,3.3
+Wednesday,afternoon,Punjab,Haryana,train,130,rainy,620,930,10,4.2
+Saturday,afternoon,Pune,Punjab,train,190,rainy,1670,610,125,1.3
+Friday,afternoon,Uttar Pradesh,Punjab,bus,190,rainy,80,420,80,1.2
+Sunday,evening,Pune,Kolkata,train,280,winter,1950,50,10,4.9
+Monday,evening,Lucknow,Delhi,bus,240,summer,90,430,125,1.1
+Friday,afternoon,Lucknow,Kolkata,bus,70,rainy,50,740,60,3.0
+Wednesday,afternoon,Delhi,Varanasi,aeroplane,30,rainy,700,0,70,1.4
+Tuesday,evening,Haryana,Uttar Pradesh,aeroplane,70,rainy,740,0,25,4.1
+Tuesday,evening,Haryana,Kolkata,train,160,summer,670,630,115,2.3
+Wednesday,afternoon,Pune,Punjab,aeroplane,80,rainy,500,0,15,4.8
+Monday,afternoon,Uttar Pradesh,Delhi,aeroplane,110,rainy,620,0,20,4.3
+Thursday,afternoon,Pune,Uttar Pradesh,bus,80,autumn,60,260,130,1.1
+Tuesday,afternoon,Haryana,Uttar Pradesh,aeroplane,60,rainy,550,0,40,3.4
+Saturday,evening,Pune,Uttar Pradesh,aeroplane,80,rainy,640,0,50,3.0
+Saturday,morning,Pune,Kolkata,train,200,winter,560,110,90,2.0
+Friday,afternoon,Pune,Lucknow,train,200,winter,810,660,95,2.1
+Sunday,afternoon,Haryana,Uttar Pradesh,train,250,summer,1950,380,95,1.5
+Friday,morning,Delhi,Lucknow,aeroplane,50,rainy,560,0,40,3.6
+Sunday,morning,Varanasi,Delhi,train,230,spring,1920,70,25,4.3
+Wednesday,morning,Delhi,Pune,bus,90,rainy,80,550,5,4.2
+Wednesday,evening,Punjab,Delhi,bus,400,rainy,40,500,130,2.2
+Friday,afternoon,Delhi,Punjab,aeroplane,110,rainy,490,0,20,4.3
+Tuesday,afternoon,Delhi,Haryana,bus,390,spring,110,450,150,1.6
+Saturday,morning,Varanasi,Lucknow,train,180,winter,540,540,40,3.7
+Monday,evening,Haryana,Pune,bus,380,spring,70,180,10,4.3
+Monday,afternoon,Haryana,Varanasi,aeroplane,80,rainy,540,0,5,4.6
+Tuesday,morning,Haryana,Kolkata,bus,310,summer,80,200,95,1.3
+Saturday,morning,Punjab,Kolkata,train,230,autumn,980,550,45,3.9
+Thursday,morning,Kolkata,Varanasi,train,190,spring,690,170,60,3.9
+Friday,afternoon,Pune,Kolkata,bus,260,summer,60,210,90,1.3
+Sunday,morning,Uttar Pradesh,Varanasi,bus,180,winter,20,130,105,2.3
+Wednesday,evening,Pune,Lucknow,aeroplane,110,rainy,540,0,120,1.6
+Saturday,afternoon,Varanasi,Punjab,aeroplane,90,rainy,610,0,130,2.8
+Monday,afternoon,Uttar Pradesh,Kolkata,aeroplane,80,rainy,740,0,105,2.3
+Monday,morning,Lucknow,Punjab,aeroplane,80,rainy,540,0,80,2.6
+Sunday,morning,Haryana,Delhi,bus,60,autumn,20,40,40,3.1
+Sunday,evening,Kolkata,Haryana,bus,180,winter,60,350,75,2.0
+Tuesday,afternoon,Punjab,Pune,aeroplane,60,rainy,660,0,80,1.9
+Saturday,afternoon,Kolkata,Varanasi,train,170,autumn,1630,100,75,1.3
+Sunday,evening,Delhi,Lucknow,aeroplane,30,rainy,720,0,105,2.7
+Saturday,afternoon,Delhi,Uttar Pradesh,aeroplane,70,rainy,590,0,75,2.4
+Sunday,morning,Delhi,Punjab,bus,240,winter,110,440,135,3.0
+Sunday,evening,Punjab,Varanasi,aeroplane,40,rainy,840,0,65,1.7
+Thursday,afternoon,Delhi,Varanasi,train,160,summer,1850,120,70,1.7
+Sunday,afternoon,Haryana,Varanasi,aeroplane,90,rainy,520,0,105,1.3
+Saturday,morning,Kolkata,Varanasi,bus,60,summer,70,90,80,1.7
+Saturday,afternoon,Haryana,Punjab,bus,250,rainy,30,450,140,1.8
+Friday,evening,Haryana,Delhi,bus,110,rainy,90,390,25,4.2
+Tuesday,morning,Kolkata,Haryana,aeroplane,40,rainy,810,0,130,2.9
+Saturday,evening,Pune,Haryana,bus,380,rainy,30,960,105,2.1
+Tuesday,morning,Delhi,Lucknow,train,120,autumn,1110,390,65,1.6
+Friday,evening,Haryana,Kolkata,aeroplane,40,rainy,800,0,130,1.9
+Thursday,morning,Kolkata,Uttar Pradesh,train,140,autumn,550,590,30,4.2
+Thursday,evening,Pune,Uttar Pradesh,train,150,summer,1370,520,60,3.6
+Saturday,morning,Kolkata,Haryana,bus,280,autumn,50,200,80,2.5
+Saturday,evening,Lucknow,Punjab,train,170,spring,570,290,150,3.0
+Saturday,evening,Kolkata,Lucknow,bus,120,winter,60,380,110,1.5
+Monday,afternoon,Haryana,Pune,aeroplane,100,rainy,770,0,130,2.8
+Monday,evening,Punjab,Pune,bus,80,autumn,100,330,60,3.4
+Saturday,afternoon,Lucknow,Varanasi,train,270,autumn,920,600,100,2.7
+Sunday,evening,Lucknow,Haryana,bus,350,winter,90,120,25,4.7
+Monday,evening,Pune,Punjab,aeroplane,30,rainy,780,0,85,2.1
+Wednesday,morning,Varanasi,Delhi,aeroplane,50,rainy,490,0,125,2.7
+Thursday,morning,Kolkata,Haryana,train,290,winter,1030,440,75,2.0
+Friday,evening,Haryana,Pune,train,130,autumn,500,50,125,1.9
+Saturday,morning,Uttar Pradesh,Pune,bus,290,rainy,70,710,150,1.4
+Sunday,evening,Delhi,Kolkata,bus,390,spring,40,290,100,1.1
+Wednesday,morning,Varanasi,Kolkata,bus,370,summer,60,390,100,2.0
+Saturday,morning,Lucknow,Kolkata,train,150,autumn,910,590,100,2.9
+Wednesday,evening,Pune,Kolkata,aeroplane,110,rainy,510,0,135,2.6
+Thursday,evening,Varanasi,Pune,aeroplane,30,rainy,540,0,90,2.2
+Saturday,morning,Uttar Pradesh,Lucknow,bus,130,autumn,70,180,55,3.6
+Sunday,evening,Kolkata,Delhi,aeroplane,50,rainy,680,0,65,1.9
+Tuesday,afternoon,Haryana,Punjab,train,130,winter,1730,490,25,4.1
+Wednesday,evening,Haryana,Delhi,bus,160,autumn,50,50,90,1.3
+Monday,morning,Kolkata,Delhi,bus,180,winter,70,480,140,1.7
+Tuesday,evening,Delhi,Lucknow,train,200,rainy,1190,600,110,2.8
+Friday,morning,Haryana,Varanasi,train,130,winter,1530,480,135,2.9
+Wednesday,morning,Uttar Pradesh,Kolkata,bus,130,autumn,20,490,20,4.1
+Tuesday,evening,Haryana,Delhi,train,210,winter,830,520,135,1.7
+Monday,morning,Haryana,Uttar Pradesh,bus,240,autumn,60,60,100,3.0
+Saturday,afternoon,Uttar Pradesh,Lucknow,train,160,spring,1410,450,55,3.4
+Tuesday,evening,Delhi,Haryana,train,270,spring,1650,190,80,2.3
+Tuesday,evening,Lucknow,Punjab,train,280,summer,1640,350,65,1.2
+Tuesday,afternoon,Uttar Pradesh,Lucknow,train,260,spring,1800,610,140,2.9
+Saturday,evening,Delhi,Lucknow,train,140,rainy,1420,1020,90,1.5
+Saturday,evening,Pune,Delhi,aeroplane,70,rainy,650,0,15,4.7
+Saturday,afternoon,Kolkata,Uttar Pradesh,train,160,rainy,730,480,100,1.2
+Wednesday,evening,Uttar Pradesh,Varanasi,train,230,autumn,1590,520,50,3.6
+Friday,afternoon,Uttar Pradesh,Punjab,bus,360,autumn,80,20,145,1.9
+Sunday,morning,Haryana,Lucknow,bus,60,autumn,100,460,20,4.5
+Monday,afternoon,Kolkata,Varanasi,train,190,summer,970,590,120,2.9
+Thursday,evening,Lucknow,Haryana,aeroplane,60,rainy,640,0,10,4.7
+Saturday,afternoon,Delhi,Uttar Pradesh,aeroplane,30,rainy,740,0,105,2.2
+Tuesday,morning,Varanasi,Haryana,train,240,spring,1340,240,20,4.9
+Tuesday,evening,Delhi,Punjab,bus,360,autumn,70,450,130,1.5
+Wednesday,morning,Haryana,Punjab,train,230,spring,970,500,15,4.9
+Saturday,morning,Haryana,Lucknow,train,280,spring,710,180,140,1.7
+Saturday,morning,Lucknow,Pune,train,160,summer,1890,490,125,1.1
+Saturday,afternoon,Punjab,Haryana,train,230,rainy,1770,410,60,3.2
+Wednesday,evening,Kolkata,Delhi,bus,300,spring,60,310,30,4.3
+Tuesday,evening,Delhi,Varanasi,train,140,autumn,1290,100,130,1.8
+Monday,morning,Pune,Kolkata,train,130,winter,720,270,85,1.9
+Saturday,evening,Haryana,Lucknow,train,200,rainy,800,690,140,2.7
+Monday,afternoon,Haryana,Varanasi,bus,350,winter,80,50,95,2.0
+Saturday,morning,Pune,Punjab,train,170,winter,550,160,5,4.2
+Wednesday,morning,Lucknow,Varanasi,aeroplane,110,rainy,570,0,125,1.2
+Tuesday,afternoon,Pune,Uttar Pradesh,train,190,rainy,1480,800,135,2.9
+Sunday,evening,Kolkata,Uttar Pradesh,bus,90,rainy,20,510,75,2.4
+Saturday,evening,Delhi,Lucknow,aeroplane,30,rainy,510,0,100,1.6
+Friday,evening,Kolkata,Uttar Pradesh,bus,70,spring,40,450,85,1.9
+Wednesday,afternoon,Varanasi,Delhi,bus,210,autumn,30,490,70,2.7
+Tuesday,morning,Pune,Varanasi,train,220,winter,1020,330,60,3.1
+Tuesday,morning,Haryana,Pune,aeroplane,80,rainy,550,0,75,2.9
+Monday,afternoon,Uttar Pradesh,Lucknow,bus,250,rainy,60,580,125,1.5
+Friday,afternoon,Pune,Varanasi,train,170,summer,1910,50,95,2.3
+Monday,afternoon,Kolkata,Uttar Pradesh,train,280,rainy,1460,870,55,3.2
+Sunday,morning,Punjab,Pune,aeroplane,100,rainy,730,0,95,2.2
+Sunday,evening,Varanasi,Haryana,bus,410,summer,10,180,100,1.7
+Wednesday,afternoon,Kolkata,Punjab,train,280,summer,1060,490,40,3.8
+Wednesday,morning,Uttar Pradesh,Delhi,aeroplane,110,rainy,520,0,130,1.1
+Wednesday,afternoon,Pune,Kolkata,train,290,spring,970,120,115,2.4
+Saturday,evening,Punjab,Varanasi,aeroplane,110,rainy,840,0,90,2.7
+Thursday,morning,Haryana,Kolkata,aeroplane,110,rainy,780,0,95,2.7
+Saturday,morning,Haryana,Kolkata,aeroplane,50,rainy,630,0,20,4.5
+Tuesday,morning,Pune,Delhi,bus,100,summer,90,70,100,2.4
+Thursday,afternoon,Punjab,Lucknow,bus,170,spring,40,200,70,1.0
+Monday,morning,Kolkata,Haryana,aeroplane,90,rainy,850,0,140,1.5
+Wednesday,morning,Punjab,Varanasi,bus,150,winter,110,90,85,2.5
+Monday,morning,Delhi,Haryana,train,180,spring,1960,340,65,1.6
+Friday,evening,Haryana,Delhi,bus,280,autumn,60,300,125,1.5
+Monday,morning,Pune,Lucknow,aeroplane,80,rainy,690,0,25,4.9
+Sunday,evening,Kolkata,Lucknow,train,140,spring,1130,570,60,3.3
+Monday,morning,Kolkata,Delhi,aeroplane,70,rainy,750,0,40,3.2
+Saturday,morning,Pune,Varanasi,aeroplane,110,rainy,640,0,110,2.7
+Sunday,evening,Kolkata,Pune,aeroplane,100,rainy,560,0,85,2.3
+Sunday,evening,Punjab,Uttar Pradesh,aeroplane,70,rainy,510,0,60,3.5
+Sunday,evening,Delhi,Uttar Pradesh,aeroplane,90,rainy,570,0,20,4.7
+Friday,evening,Pune,Haryana,aeroplane,100,rainy,550,0,40,3.4
+Saturday,morning,Varanasi,Uttar Pradesh,bus,210,spring,80,230,30,4.2
+Friday,evening,Punjab,Pune,train,170,autumn,1270,250,20,4.9
+Sunday,morning,Punjab,Uttar Pradesh,bus,390,spring,20,280,30,4.3
+Monday,morning,Uttar Pradesh,Varanasi,bus,160,winter,20,60,125,1.0
+Thursday,evening,Lucknow,Kolkata,train,230,autumn,1020,130,75,2.2
+Sunday,evening,Lucknow,Haryana,train,250,autumn,1210,540,35,3.6
+Saturday,afternoon,Lucknow,Uttar Pradesh,bus,260,summer,90,160,25,4.1
+Sunday,afternoon,Varanasi,Pune,bus,60,winter,100,150,110,1.6
+Saturday,afternoon,Haryana,Punjab,train,190,spring,620,60,75,2.4
+Thursday,afternoon,Pune,Punjab,aeroplane,60,rainy,670,0,45,3.7
+Thursday,afternoon,Lucknow,Haryana,train,180,summer,1880,460,5,4.1
+Wednesday,morning,Haryana,Uttar Pradesh,bus,230,winter,20,280,120,2.8
+Monday,evening,Haryana,Kolkata,aeroplane,90,rainy,690,0,25,4.4
+Wednesday,afternoon,Uttar Pradesh,Punjab,bus,410,autumn,100,70,110,1.9
+Saturday,evening,Varanasi,Uttar Pradesh,bus,210,winter,50,240,100,2.3
+Friday,evening,Haryana,Delhi,aeroplane,110,rainy,490,0,115,1.3
+Thursday,evening,Punjab,Uttar Pradesh,bus,140,rainy,50,620,15,4.5
+Monday,evening,Haryana,Delhi,bus,90,autumn,10,230,15,4.7
+Tuesday,evening,Varanasi,Haryana,aeroplane,100,rainy,500,0,75,1.9
+Saturday,morning,Varanasi,Haryana,aeroplane,60,rainy,490,0,140,1.3
+Wednesday,evening,Delhi,Lucknow,bus,150,summer,100,350,90,1.9
+Friday,morning,Delhi,Lucknow,bus,330,summer,10,280,120,1.2
+Sunday,evening,Lucknow,Punjab,aeroplane,70,rainy,590,0,45,3.8
+Saturday,afternoon,Delhi,Pune,train,270,summer,840,510,60,3.9
+Sunday,morning,Uttar Pradesh,Lucknow,bus,400,summer,40,420,130,1.9
+Wednesday,evening,Pune,Varanasi,bus,280,rainy,20,630,50,3.1
+Saturday,morning,Delhi,Lucknow,train,290,spring,1390,50,65,2.2
+Saturday,evening,Punjab,Delhi,aeroplane,50,rainy,490,0,40,4.0
+Wednesday,afternoon,Lucknow,Haryana,aeroplane,110,rainy,590,0,100,2.1
+Monday,morning,Uttar Pradesh,Kolkata,aeroplane,110,rainy,660,0,55,3.1
+Friday,evening,Lucknow,Uttar Pradesh,bus,320,summer,40,200,10,4.3
+Friday,morning,Uttar Pradesh,Pune,aeroplane,90,rainy,650,0,135,2.0
+Friday,morning,Lucknow,Haryana,bus,400,spring,40,80,5,4.1
+Friday,afternoon,Punjab,Delhi,aeroplane,40,rainy,850,0,55,3.5
+Wednesday,evening,Haryana,Pune,train,180,autumn,850,220,140,1.7
+Sunday,evening,Delhi,Lucknow,bus,250,autumn,70,350,20,4.5
+Tuesday,morning,Lucknow,Kolkata,bus,320,summer,20,290,80,2.7
+Friday,evening,Varanasi,Pune,aeroplane,50,rainy,700,0,95,1.0
+Sunday,evening,Uttar Pradesh,Pune,bus,280,winter,80,260,95,1.5
+Wednesday,morning,Haryana,Lucknow,aeroplane,100,rainy,680,0,135,2.8
+Monday,afternoon,Haryana,Varanasi,train,160,summer,1030,120,120,2.2
+Tuesday,morning,Pune,Haryana,train,240,autumn,500,360,70,2.6
+Tuesday,afternoon,Haryana,Punjab,train,260,rainy,900,450,130,1.1
+Monday,afternoon,Varanasi,Pune,aeroplane,70,rainy,780,0,75,1.4
+Friday,evening,Kolkata,Uttar Pradesh,bus,80,summer,40,30,30,4.2
+Monday,afternoon,Kolkata,Punjab,train,260,winter,1200,160,70,1.9
+Tuesday,afternoon,Punjab,Lucknow,train,220,winter,1500,220,60,3.5
+Monday,evening,Uttar Pradesh,Kolkata,bus,410,summer,110,390,135,2.1
+Thursday,morning,Varanasi,Uttar Pradesh,bus,240,autumn,40,320,40,3.1
+Wednesday,morning,Delhi,Punjab,bus,180,autumn,30,230,110,2.5
+Thursday,morning,Varanasi,Lucknow,train,290,winter,1410,580,70,2.4
+Sunday,afternoon,Kolkata,Uttar Pradesh,aeroplane,50,rainy,780,0,90,1.9
+Sunday,afternoon,Kolkata,Uttar Pradesh,bus,100,rainy,10,650,145,3.0
+Sunday,evening,Punjab,Haryana,aeroplane,80,rainy,470,0,45,3.8
+Thursday,morning,Varanasi,Haryana,aeroplane,40,rainy,720,0,15,4.3
+Tuesday,evening,Delhi,Punjab,aeroplane,110,rainy,540,0,45,3.2
+Thursday,evening,Delhi,Haryana,bus,120,winter,40,390,115,2.4
+Tuesday,morning,Pune,Lucknow,aeroplane,30,rainy,550,0,75,2.3
+Saturday,evening,Punjab,Haryana,train,290,summer,1450,300,20,4.8
+Saturday,morning,Delhi,Haryana,aeroplane,100,rainy,820,0,95,1.5
+Tuesday,morning,Kolkata,Uttar Pradesh,train,180,rainy,1140,580,130,2.0
+Friday,afternoon,Haryana,Varanasi,train,140,winter,880,110,5,4.6
+Friday,afternoon,Delhi,Uttar Pradesh,aeroplane,80,rainy,600,0,45,3.7
+Sunday,evening,Pune,Uttar Pradesh,train,190,rainy,550,550,60,3.2
+Friday,evening,Delhi,Punjab,aeroplane,90,rainy,840,0,55,3.3
+Monday,evening,Punjab,Haryana,bus,250,autumn,70,200,50,3.9
+Tuesday,afternoon,Delhi,Varanasi,aeroplane,110,rainy,620,0,85,2.3
+Thursday,evening,Uttar Pradesh,Pune,bus,240,summer,40,270,100,1.3
+Thursday,morning,Delhi,Uttar Pradesh,aeroplane,30,rainy,800,0,130,1.3
+Tuesday,afternoon,Pune,Punjab,train,200,summer,1180,460,35,3.4
+Sunday,afternoon,Punjab,Delhi,aeroplane,50,rainy,820,0,15,4.4
+Friday,morning,Haryana,Varanasi,bus,340,rainy,30,770,110,1.9
+Tuesday,morning,Punjab,Haryana,train,140,rainy,1050,870,115,2.7
+Tuesday,evening,Haryana,Pune,aeroplane,70,rainy,540,0,75,1.2
+Tuesday,evening,Lucknow,Varanasi,train,260,summer,1620,320,55,3.1
+Monday,morning,Pune,Haryana,bus,290,summer,60,260,10,4.2
+Friday,evening,Haryana,Delhi,aeroplane,80,rainy,500,0,35,3.5
+Wednesday,evening,Pune,Haryana,aeroplane,70,rainy,660,0,70,1.9
+Thursday,morning,Delhi,Varanasi,aeroplane,40,rainy,590,0,95,2.0
+Thursday,afternoon,Delhi,Uttar Pradesh,bus,260,spring,90,310,130,1.0
+Saturday,afternoon,Kolkata,Punjab,aeroplane,80,rainy,640,0,30,4.2
+Thursday,afternoon,Lucknow,Kolkata,train,160,summer,1710,110,5,4.3
+Sunday,afternoon,Haryana,Pune,train,140,autumn,1000,380,25,4.0
+Saturday,evening,Varanasi,Punjab,train,250,rainy,1260,950,110,1.3
+Thursday,morning,Pune,Uttar Pradesh,bus,180,autumn,50,250,135,2.7
+Saturday,evening,Uttar Pradesh,Haryana,aeroplane,50,rainy,540,0,140,2.9
+Wednesday,morning,Varanasi,Punjab,train,270,winter,920,650,115,2.9
+Sunday,morning,Pune,Punjab,train,220,autumn,1230,50,105,2.2
+Thursday,morning,Haryana,Lucknow,bus,400,spring,70,50,25,4.5
+Saturday,morning,Kolkata,Haryana,bus,380,winter,10,320,5,4.9
+Monday,afternoon,Uttar Pradesh,Delhi,aeroplane,100,rainy,560,0,5,4.6
+Monday,afternoon,Pune,Varanasi,train,250,spring,1320,510,70,1.9
+Tuesday,evening,Lucknow,Delhi,bus,90,winter,60,270,115,2.7
+Sunday,evening,Delhi,Punjab,bus,240,autumn,110,20,40,3.1
+Monday,evening,Varanasi,Pune,train,160,summer,1010,130,60,3.3
+Tuesday,morning,Punjab,Haryana,aeroplane,40,rainy,550,0,35,3.8
+Monday,afternoon,Delhi,Kolkata,bus,240,rainy,30,670,105,1.7
+Saturday,evening,Haryana,Kolkata,bus,290,summer,80,430,20,4.9
+Friday,evening,Lucknow,Punjab,bus,250,summer,80,350,85,1.2
+Friday,morning,Kolkata,Haryana,train,240,winter,1090,50,20,4.9
+Thursday,afternoon,Kolkata,Lucknow,bus,80,summer,50,240,20,4.2
+Thursday,morning,Lucknow,Punjab,train,250,spring,930,300,105,1.7
+Saturday,morning,Delhi,Lucknow,train,290,rainy,1540,570,50,3.8
+Sunday,morning,Pune,Punjab,train,130,spring,1260,490,25,4.9
+Monday,afternoon,Lucknow,Punjab,train,220,summer,1560,180,65,1.1
+Saturday,afternoon,Lucknow,Haryana,train,170,spring,1360,280,15,4.8
+Thursday,evening,Kolkata,Pune,aeroplane,40,rainy,480,0,105,1.4
+Wednesday,evening,Varanasi,Haryana,train,200,spring,880,260,50,3.1
+Wednesday,afternoon,Punjab,Haryana,train,240,rainy,1660,670,50,3.0
+Monday,afternoon,Haryana,Uttar Pradesh,aeroplane,90,rainy,830,0,70,1.1
+Wednesday,afternoon,Lucknow,Uttar Pradesh,bus,80,summer,50,20,50,3.8
+Thursday,evening,Uttar Pradesh,Varanasi,aeroplane,40,rainy,540,0,5,4.1
+Monday,afternoon,Kolkata,Delhi,aeroplane,50,rainy,620,0,100,1.9
+Wednesday,afternoon,Delhi,Haryana,train,120,autumn,890,660,15,4.2
+Sunday,morning,Haryana,Kolkata,bus,190,spring,20,440,70,1.6
+Tuesday,morning,Lucknow,Punjab,train,150,autumn,1730,70,65,2.8
+Wednesday,afternoon,Uttar Pradesh,Delhi,aeroplane,110,rainy,630,0,140,2.3
+Friday,evening,Punjab,Varanasi,aeroplane,110,rainy,680,0,25,4.7
+Friday,afternoon,Lucknow,Varanasi,bus,360,summer,40,340,105,2.1
+Friday,evening,Haryana,Delhi,aeroplane,60,rainy,560,0,105,1.2
+Tuesday,evening,Lucknow,Varanasi,train,220,winter,1530,240,70,2.0
+Tuesday,afternoon,Pune,Haryana,aeroplane,90,rainy,730,0,110,1.4
+Monday,afternoon,Punjab,Haryana,train,160,rainy,730,930,40,3.2
+Tuesday,afternoon,Kolkata,Punjab,aeroplane,40,rainy,720,0,30,4.7
+Monday,evening,Pune,Lucknow,aeroplane,50,rainy,490,0,5,4.2
+Tuesday,evening,Haryana,Uttar Pradesh,train,220,autumn,1740,420,5,4.9
+Monday,evening,Haryana,Lucknow,train,220,spring,1120,50,130,2.7
+Monday,afternoon,Punjab,Uttar Pradesh,bus,90,rainy,30,690,45,3.5
+Wednesday,evening,Kolkata,Pune,aeroplane,100,rainy,780,0,85,2.4
+Saturday,afternoon,Punjab,Varanasi,train,270,summer,1820,320,140,2.4
+Wednesday,morning,Pune,Punjab,train,150,rainy,1740,790,100,2.2
+Monday,afternoon,Pune,Delhi,train,170,rainy,1530,790,85,1.2
+Monday,morning,Lucknow,Punjab,bus,330,winter,60,400,10,4.7
+Wednesday,evening,Delhi,Uttar Pradesh,bus,230,winter,100,20,120,1.5
+Saturday,afternoon,Varanasi,Haryana,bus,110,spring,40,280,35,3.6
+Wednesday,afternoon,Pune,Lucknow,aeroplane,50,rainy,800,0,60,3.7
+Thursday,afternoon,Punjab,Kolkata,aeroplane,80,rainy,700,0,110,1.9
+Monday,evening,Haryana,Delhi,bus,390,spring,100,160,145,2.1
+Tuesday,afternoon,Pune,Varanasi,aeroplane,100,rainy,500,0,20,4.9
+Sunday,evening,Varanasi,Delhi,aeroplane,50,rainy,800,0,85,2.2
+Wednesday,evening,Varanasi,Haryana,bus,200,spring,50,350,115,1.5
+Saturday,afternoon,Pune,Kolkata,train,220,rainy,1640,1040,140,1.8
+Saturday,morning,Punjab,Delhi,train,230,autumn,1250,180,110,1.9
+Saturday,morning,Kolkata,Punjab,train,130,winter,1730,580,120,1.7
+Friday,morning,Lucknow,Pune,bus,150,summer,40,310,80,1.4
+Sunday,evening,Pune,Delhi,bus,160,summer,90,230,10,5.0
+Wednesday,evening,Punjab,Varanasi,train,180,rainy,700,740,100,2.0
+Sunday,afternoon,Uttar Pradesh,Pune,train,240,spring,1100,630,135,1.8
+Friday,evening,Haryana,Uttar Pradesh,train,140,autumn,1280,380,40,3.1
+Saturday,morning,Haryana,Uttar Pradesh,aeroplane,80,rainy,500,0,125,1.9
+Saturday,afternoon,Lucknow,Kolkata,train,250,autumn,1730,460,115,1.5
+Monday,afternoon,Uttar Pradesh,Pune,train,210,spring,1010,90,110,1.7
+Monday,afternoon,Lucknow,Punjab,aeroplane,60,rainy,740,0,105,2.6
+Sunday,evening,Delhi,Pune,bus,200,spring,90,50,20,4.6
+Wednesday,afternoon,Varanasi,Punjab,train,130,summer,1190,340,115,2.2
+Saturday,afternoon,Haryana,Kolkata,bus,100,spring,30,300,120,1.7
+Sunday,evening,Delhi,Kolkata,bus,150,winter,80,390,25,4.0
+Sunday,morning,Uttar Pradesh,Punjab,bus,80,autumn,120,240,90,2.6
+Sunday,afternoon,Uttar Pradesh,Haryana,aeroplane,90,rainy,500,0,130,1.4
+Tuesday,afternoon,Delhi,Uttar Pradesh,aeroplane,50,rainy,660,0,20,4.7
+Friday,afternoon,Varanasi,Delhi,aeroplane,30,rainy,550,0,45,3.9
+Friday,evening,Kolkata,Lucknow,aeroplane,110,rainy,800,0,110,2.8
+Wednesday,evening,Pune,Haryana,train,230,winter,660,620,95,2.0
+Monday,afternoon,Delhi,Haryana,bus,170,summer,20,100,140,1.7
+Thursday,morning,Varanasi,Lucknow,aeroplane,110,rainy,680,0,35,3.4
+Friday,morning,Pune,Lucknow,train,170,winter,1090,550,5,4.6
+Thursday,evening,Varanasi,Uttar Pradesh,bus,260,rainy,100,660,15,4.2
+Saturday,evening,Delhi,Lucknow,bus,270,autumn,100,280,100,2.8
+Tuesday,evening,Lucknow,Uttar Pradesh,train,160,winter,1610,190,35,3.3
+Monday,evening,Varanasi,Punjab,aeroplane,90,rainy,840,0,95,1.8
+Thursday,morning,Pune,Lucknow,aeroplane,40,rainy,770,0,85,2.2
+Monday,morning,Uttar Pradesh,Punjab,train,190,autumn,1390,500,100,2.9
+Sunday,afternoon,Punjab,Kolkata,train,150,winter,880,480,25,4.7
+Sunday,evening,Delhi,Lucknow,aeroplane,110,rainy,650,0,105,1.8
+Tuesday,morning,Lucknow,Punjab,train,150,summer,1210,310,40,3.4
+Sunday,morning,Uttar Pradesh,Varanasi,bus,200,winter,70,190,130,2.2
+Tuesday,evening,Varanasi,Delhi,train,130,autumn,1310,460,70,1.2
+Friday,evening,Punjab,Kolkata,train,160,winter,1500,120,145,2.7
+Tuesday,evening,Uttar Pradesh,Delhi,aeroplane,50,rainy,800,0,95,1.3
+Tuesday,morning,Punjab,Delhi,aeroplane,30,rainy,680,0,65,2.8
+Sunday,evening,Kolkata,Uttar Pradesh,train,240,winter,1790,340,25,4.8
+Friday,evening,Pune,Varanasi,train,190,winter,1080,210,45,3.5
+Saturday,afternoon,Delhi,Punjab,train,270,rainy,1430,830,145,1.8
+Tuesday,evening,Haryana,Pune,aeroplane,30,rainy,530,0,125,1.8
+Sunday,afternoon,Delhi,Pune,aeroplane,30,rainy,490,0,35,3.9
+Thursday,morning,Delhi,Haryana,aeroplane,60,rainy,510,0,140,1.5
+Thursday,evening,Lucknow,Haryana,aeroplane,60,rainy,670,0,135,1.2
+Sunday,morning,Lucknow,Kolkata,bus,90,autumn,50,130,85,2.2
+Friday,morning,Lucknow,Pune,bus,120,spring,70,90,110,2.9
+Friday,morning,Kolkata,Uttar Pradesh,bus,310,autumn,100,200,35,3.8
+Wednesday,morning,Delhi,Varanasi,aeroplane,30,rainy,790,0,45,3.7
+Sunday,afternoon,Uttar Pradesh,Kolkata,bus,380,winter,30,330,45,3.6
+Thursday,morning,Kolkata,Pune,aeroplane,30,rainy,840,0,10,4.3
+Wednesday,evening,Delhi,Haryana,bus,340,summer,50,70,95,2.1
+Friday,afternoon,Uttar Pradesh,Varanasi,train,150,rainy,1550,890,55,3.3
+Friday,afternoon,Haryana,Lucknow,train,120,summer,1260,320,65,2.2
+Thursday,evening,Uttar Pradesh,Lucknow,aeroplane,60,rainy,580,0,35,3.6
+Saturday,morning,Varanasi,Haryana,bus,60,rainy,90,580,30,5.0
+Wednesday,morning,Kolkata,Varanasi,bus,410,rainy,20,550,100,2.1
+Monday,afternoon,Kolkata,Pune,bus,60,rainy,90,720,30,4.1
+Monday,evening,Punjab,Varanasi,bus,190,spring,60,390,25,4.6
+Thursday,evening,Lucknow,Kolkata,train,160,summer,1360,320,70,1.5
+Tuesday,morning,Lucknow,Haryana,bus,130,summer,20,20,55,3.3
+Friday,evening,Haryana,Pune,aeroplane,60,rainy,850,0,140,1.3
+Friday,evening,Uttar Pradesh,Varanasi,bus,230,summer,110,160,110,1.4
+Thursday,morning,Haryana,Kolkata,bus,380,spring,100,120,115,1.8
+Wednesday,morning,Punjab,Lucknow,train,180,rainy,1930,700,130,1.7
+Monday,afternoon,Kolkata,Lucknow,aeroplane,50,rainy,640,0,25,4.7
+Tuesday,morning,Delhi,Punjab,bus,220,rainy,40,490,60,3.4
+Saturday,evening,Haryana,Pune,bus,160,winter,110,340,135,1.9
+Wednesday,evening,Haryana,Kolkata,train,250,rainy,1410,1010,75,1.9
+Tuesday,afternoon,Punjab,Lucknow,train,280,winter,1830,80,60,3.1
+Saturday,morning,Haryana,Punjab,aeroplane,40,rainy,670,0,140,2.3
+Sunday,evening,Punjab,Varanasi,bus,280,winter,20,20,95,1.8
+Thursday,afternoon,Varanasi,Punjab,bus,230,autumn,60,150,5,4.9
+Sunday,evening,Kolkata,Lucknow,aeroplane,110,rainy,810,0,70,2.1
+Thursday,morning,Varanasi,Delhi,bus,360,summer,110,120,80,2.0
+Wednesday,morning,Haryana,Uttar Pradesh,bus,130,summer,40,250,70,2.0
+Tuesday,morning,Lucknow,Varanasi,bus,200,rainy,90,450,145,2.8
+Saturday,afternoon,Lucknow,Varanasi,aeroplane,40,rainy,680,0,45,3.4
+Thursday,evening,Punjab,Lucknow,aeroplane,70,rainy,530,0,50,3.5
+Wednesday,afternoon,Delhi,Pune,train,210,winter,1320,510,15,4.2
+Saturday,morning,Lucknow,Pune,train,290,autumn,650,610,90,1.1
+Thursday,morning,Haryana,Pune,bus,100,winter,110,320,90,2.8
+Saturday,morning,Varanasi,Delhi,bus,330,winter,30,140,105,1.3
+Sunday,morning,Uttar Pradesh,Haryana,train,180,summer,540,530,115,1.5
+Wednesday,morning,Delhi,Uttar Pradesh,bus,130,autumn,70,390,95,1.7
+Sunday,evening,Pune,Varanasi,bus,190,winter,50,180,130,2.4
+Monday,morning,Punjab,Lucknow,aeroplane,80,rainy,790,0,55,3.2
+Tuesday,afternoon,Uttar Pradesh,Delhi,aeroplane,30,rainy,610,0,55,3.5
+Saturday,morning,Punjab,Varanasi,aeroplane,30,rainy,830,0,110,1.9
+Tuesday,evening,Uttar Pradesh,Pune,bus,120,spring,30,280,25,4.5
+Tuesday,evening,Delhi,Pune,aeroplane,110,rainy,820,0,120,2.6
+Monday,morning,Lucknow,Delhi,aeroplane,100,rainy,790,0,135,1.6
+Monday,evening,Punjab,Kolkata,train,290,winter,1900,60,5,4.4
+Tuesday,afternoon,Delhi,Kolkata,train,270,autumn,570,460,130,1.3
+Monday,afternoon,Punjab,Kolkata,train,230,summer,590,370,70,2.1
+Monday,evening,Kolkata,Delhi,bus,160,spring,90,280,125,1.1
+Wednesday,evening,Varanasi,Punjab,aeroplane,30,rainy,770,0,75,2.8
+Monday,afternoon,Uttar Pradesh,Delhi,train,180,rainy,1480,750,40,3.3
+Friday,evening,Lucknow,Uttar Pradesh,aeroplane,100,rainy,520,0,20,4.3
+Monday,evening,Pune,Haryana,train,150,spring,1680,590,120,1.2
+Friday,morning,Punjab,Kolkata,aeroplane,30,rainy,700,0,110,2.4
+Friday,morning,Pune,Kolkata,train,270,autumn,940,260,20,4.1
+Tuesday,afternoon,Delhi,Pune,train,190,summer,1330,70,105,2.5
+Wednesday,morning,Lucknow,Haryana,bus,320,winter,20,200,135,2.3
+Thursday,evening,Varanasi,Kolkata,bus,220,rainy,90,860,120,2.6
+Wednesday,afternoon,Pune,Lucknow,train,130,spring,1080,510,100,1.1
+Friday,afternoon,Haryana,Varanasi,aeroplane,100,rainy,590,0,55,3.9
+Thursday,evening,Lucknow,Pune,bus,70,autumn,90,60,20,4.8
+Tuesday,morning,Haryana,Uttar Pradesh,train,230,summer,990,400,20,5.0
+Wednesday,morning,Varanasi,Lucknow,train,270,autumn,1630,130,30,4.9
+Tuesday,evening,Punjab,Delhi,bus,240,autumn,80,310,55,3.5
+Wednesday,afternoon,Lucknow,Haryana,train,220,summer,1850,210,85,1.4
+Sunday,afternoon,Pune,Kolkata,aeroplane,80,rainy,720,0,25,4.3
+Saturday,morning,Kolkata,Lucknow,aeroplane,100,rainy,790,0,60,3.1
+Sunday,morning,Pune,Punjab,aeroplane,40,rainy,830,0,90,2.8
+Monday,evening,Kolkata,Varanasi,bus,100,summer,50,220,95,2.5
+Wednesday,afternoon,Haryana,Delhi,bus,320,summer,100,410,5,4.8
+Thursday,evening,Kolkata,Pune,aeroplane,60,rainy,690,0,95,2.0
+Monday,morning,Pune,Haryana,bus,310,autumn,60,380,140,1.6
+Thursday,afternoon,Lucknow,Delhi,train,140,rainy,1780,680,70,2.6
+Saturday,afternoon,Lucknow,Varanasi,train,150,autumn,1380,480,125,1.6
+Sunday,evening,Uttar Pradesh,Haryana,train,200,rainy,550,740,65,2.2
+Tuesday,morning,Lucknow,Delhi,aeroplane,60,rainy,830,0,130,2.6
+Monday,afternoon,Delhi,Haryana,bus,320,rainy,100,700,25,4.6
+Wednesday,morning,Haryana,Punjab,aeroplane,80,rainy,470,0,75,1.3
+Thursday,morning,Uttar Pradesh,Pune,bus,100,spring,70,410,135,2.4
+Monday,evening,Haryana,Varanasi,bus,100,summer,20,430,80,1.5
+Friday,evening,Uttar Pradesh,Pune,train,180,winter,1720,430,90,1.8
+Wednesday,afternoon,Pune,Lucknow,train,190,rainy,1190,1090,15,4.6
+Wednesday,morning,Kolkata,Delhi,aeroplane,80,rainy,790,0,50,4.0
+Thursday,afternoon,Kolkata,Pune,aeroplane,110,rainy,630,0,115,2.0
+Sunday,afternoon,Lucknow,Pune,bus,390,autumn,110,500,120,2.4
+Friday,evening,Punjab,Uttar Pradesh,bus,90,spring,90,350,125,2.5
+Friday,evening,Haryana,Delhi,train,230,summer,560,550,100,1.8
+Saturday,morning,Haryana,Delhi,bus,190,rainy,80,700,5,4.5
+Saturday,evening,Kolkata,Punjab,bus,370,winter,110,480,145,2.2
+Friday,evening,Delhi,Uttar Pradesh,train,200,rainy,1090,620,35,3.1
+Monday,evening,Kolkata,Punjab,aeroplane,60,rainy,650,0,130,2.2
+Friday,afternoon,Lucknow,Uttar Pradesh,aeroplane,110,rainy,590,0,135,2.4
+Monday,afternoon,Delhi,Punjab,aeroplane,80,rainy,840,0,60,3.7
+Monday,morning,Haryana,Kolkata,aeroplane,110,rainy,780,0,45,3.3
+Friday,evening,Varanasi,Punjab,aeroplane,80,rainy,540,0,115,1.2
+Friday,evening,Haryana,Kolkata,bus,170,autumn,60,270,80,1.2
+Sunday,evening,Punjab,Haryana,aeroplane,40,rainy,600,0,35,3.2
+Wednesday,morning,Haryana,Kolkata,aeroplane,90,rainy,760,0,30,4.0
+Friday,evening,Uttar Pradesh,Lucknow,train,250,winter,910,220,135,2.7
+Thursday,morning,Delhi,Kolkata,bus,230,rainy,40,450,40,3.6
+Sunday,afternoon,Delhi,Lucknow,aeroplane,90,rainy,710,0,65,1.6
+Saturday,evening,Lucknow,Delhi,bus,200,spring,30,360,80,2.7
+Wednesday,evening,Uttar Pradesh,Kolkata,aeroplane,60,rainy,630,0,30,4.3
+Monday,evening,Pune,Kolkata,bus,260,spring,20,480,75,2.1
+Wednesday,evening,Varanasi,Punjab,train,290,spring,960,640,110,1.8
+Monday,morning,Delhi,Punjab,aeroplane,90,rainy,800,0,30,4.3
+Sunday,morning,Kolkata,Varanasi,bus,170,spring,80,470,135,2.7
+Friday,evening,Delhi,Haryana,train,240,summer,1390,80,55,3.9
+Thursday,morning,Delhi,Haryana,bus,300,summer,100,90,65,1.7
+Monday,evening,Haryana,Varanasi,bus,190,spring,100,150,110,2.1
+Saturday,morning,Kolkata,Haryana,aeroplane,50,rainy,610,0,130,1.5
+Wednesday,morning,Pune,Varanasi,aeroplane,50,rainy,670,0,85,2.6
+Friday,morning,Uttar Pradesh,Haryana,bus,310,autumn,30,240,70,1.9
+Thursday,evening,Delhi,Pune,aeroplane,110,rainy,780,0,85,1.8
+Sunday,morning,Uttar Pradesh,Delhi,bus,180,winter,40,180,5,4.5
+Wednesday,morning,Haryana,Pune,aeroplane,60,rainy,500,0,125,2.8
+Saturday,evening,Kolkata,Delhi,train,130,spring,1470,230,15,4.7
+Thursday,afternoon,Kolkata,Lucknow,bus,390,autumn,60,110,20,4.4
+Monday,afternoon,Delhi,Haryana,bus,360,summer,40,10,10,4.9
+Tuesday,morning,Varanasi,Punjab,train,180,autumn,1960,490,140,1.0
+Friday,afternoon,Delhi,Punjab,aeroplane,110,rainy,650,0,120,1.6
+Friday,morning,Pune,Haryana,aeroplane,40,rainy,810,0,40,3.8
+Friday,afternoon,Lucknow,Punjab,bus,210,autumn,30,320,30,4.3
+Wednesday,morning,Delhi,Lucknow,bus,380,rainy,20,680,35,3.5
+Monday,morning,Haryana,Varanasi,train,290,rainy,530,960,20,4.5
+Friday,evening,Lucknow,Punjab,aeroplane,50,rainy,560,0,55,3.9
+Tuesday,afternoon,Varanasi,Delhi,bus,370,winter,100,380,100,2.0
+Tuesday,morning,Uttar Pradesh,Haryana,aeroplane,110,rainy,640,0,80,2.6
+Thursday,morning,Delhi,Haryana,bus,150,rainy,50,790,10,4.7
+Friday,morning,Pune,Varanasi,train,190,winter,1730,260,70,2.7
+Friday,morning,Varanasi,Kolkata,bus,100,autumn,90,390,10,4.7
+Friday,morning,Varanasi,Lucknow,aeroplane,30,rainy,540,0,15,4.5
+Sunday,evening,Varanasi,Pune,aeroplane,70,rainy,790,0,40,3.8
+Monday,afternoon,Haryana,Varanasi,aeroplane,30,rainy,760,0,45,3.9
+Wednesday,morning,Delhi,Uttar Pradesh,train,280,winter,580,120,5,4.8
+Saturday,afternoon,Punjab,Kolkata,aeroplane,70,rainy,520,0,135,2.0
+Monday,morning,Pune,Kolkata,bus,260,spring,60,320,75,1.1
+Wednesday,evening,Varanasi,Kolkata,train,220,rainy,1820,670,5,4.0
+Tuesday,evening,Lucknow,Varanasi,aeroplane,100,rainy,680,0,110,2.6
+Wednesday,morning,Lucknow,Uttar Pradesh,train,240,rainy,1990,1150,30,4.6
+Friday,evening,Kolkata,Uttar Pradesh,aeroplane,80,rainy,760,0,25,4.0
+Tuesday,morning,Varanasi,Haryana,bus,130,winter,50,240,40,3.2
+Saturday,morning,Varanasi,Pune,bus,70,summer,90,20,15,4.4
+Monday,afternoon,Uttar Pradesh,Lucknow,bus,340,autumn,70,280,50,3.3
+Saturday,morning,Lucknow,Varanasi,bus,100,rainy,40,710,105,2.6
+Friday,evening,Punjab,Lucknow,train,190,spring,780,480,40,3.3
+Saturday,evening,Pune,Punjab,bus,310,rainy,10,890,125,1.4
+Wednesday,afternoon,Uttar Pradesh,Haryana,bus,280,spring,80,460,60,3.2
+Sunday,morning,Lucknow,Delhi,bus,290,rainy,60,640,105,3.0
+Tuesday,afternoon,Uttar Pradesh,Pune,aeroplane,50,rainy,850,0,115,1.2
+Sunday,morning,Delhi,Haryana,aeroplane,30,rainy,820,0,110,2.3
+Tuesday,afternoon,Haryana,Delhi,aeroplane,80,rainy,710,0,95,2.9
+Thursday,morning,Punjab,Lucknow,bus,210,spring,100,400,5,4.2
+Monday,evening,Lucknow,Pune,train,220,autumn,1770,570,45,3.5
+Wednesday,evening,Pune,Varanasi,train,250,rainy,1690,640,135,2.6
+Wednesday,morning,Kolkata,Punjab,train,230,rainy,1750,1040,125,1.6
+Thursday,morning,Haryana,Lucknow,train,150,spring,700,190,70,1.7
+Wednesday,afternoon,Pune,Haryana,bus,350,autumn,30,200,110,1.0
+Saturday,morning,Kolkata,Uttar Pradesh,train,280,summer,1910,520,20,4.5
+Friday,evening,Punjab,Kolkata,aeroplane,40,rainy,680,0,110,2.9
+Monday,morning,Varanasi,Pune,aeroplane,60,rainy,840,0,35,3.8
+Monday,afternoon,Varanasi,Pune,bus,360,autumn,120,110,55,3.8
+Sunday,morning,Pune,Varanasi,aeroplane,110,rainy,810,0,95,2.0
+Wednesday,afternoon,Punjab,Pune,aeroplane,30,rainy,600,0,5,4.6
+Tuesday,afternoon,Delhi,Lucknow,bus,290,rainy,110,990,140,2.9
+Sunday,afternoon,Lucknow,Uttar Pradesh,bus,90,autumn,10,380,115,1.2
+Thursday,morning,Uttar Pradesh,Pune,aeroplane,100,rainy,630,0,20,4.5
+Saturday,afternoon,Varanasi,Lucknow,aeroplane,30,rainy,650,0,105,1.4
+Thursday,morning,Delhi,Haryana,train,290,summer,1830,450,5,5.0
+Sunday,afternoon,Pune,Haryana,train,250,summer,590,520,25,4.1
+Thursday,morning,Uttar Pradesh,Lucknow,aeroplane,50,rainy,500,0,40,4.0
+Saturday,afternoon,Punjab,Lucknow,aeroplane,70,rainy,730,0,125,1.7
+Monday,evening,Delhi,Lucknow,bus,180,rainy,100,990,10,4.3
+Friday,afternoon,Kolkata,Haryana,bus,220,rainy,60,570,95,2.3
+Thursday,afternoon,Lucknow,Varanasi,train,290,winter,690,530,135,1.4
+Monday,evening,Uttar Pradesh,Kolkata,bus,210,summer,120,150,20,4.9
+Thursday,morning,Delhi,Kolkata,train,200,autumn,1140,550,80,1.9
+Wednesday,evening,Varanasi,Uttar Pradesh,aeroplane,100,rainy,500,0,140,2.4
+Sunday,afternoon,Haryana,Punjab,train,140,winter,800,210,105,1.0
+Saturday,afternoon,Varanasi,Kolkata,train,140,autumn,580,570,15,4.1
+Tuesday,evening,Delhi,Punjab,aeroplane,60,rainy,530,0,50,3.3
+Wednesday,evening,Delhi,Varanasi,bus,140,winter,70,40,65,2.4
+Monday,afternoon,Varanasi,Uttar Pradesh,train,250,spring,630,130,40,3.6
+Saturday,afternoon,Uttar Pradesh,Varanasi,aeroplane,50,rainy,570,0,70,2.0
+Thursday,evening,Delhi,Haryana,aeroplane,100,rainy,760,0,30,4.1
+Monday,evening,Pune,Kolkata,train,210,spring,1340,90,95,2.9
+Thursday,morning,Punjab,Delhi,train,150,winter,1980,600,55,4.0
+Tuesday,evening,Pune,Lucknow,train,190,spring,1740,310,75,1.6
+Tuesday,morning,Punjab,Varanasi,train,180,spring,1480,380,145,1.8
+Thursday,afternoon,Punjab,Varanasi,train,230,winter,1510,270,70,2.3
+Tuesday,evening,Haryana,Pune,aeroplane,70,rainy,580,0,25,4.3
+Monday,afternoon,Haryana,Kolkata,train,270,summer,1930,420,85,1.2
+Monday,afternoon,Delhi,Varanasi,train,290,autumn,1220,110,100,1.5
+Tuesday,evening,Delhi,Varanasi,bus,250,spring,100,140,70,2.2
+Wednesday,evening,Varanasi,Pune,train,240,summer,800,310,135,2.1
+Saturday,afternoon,Varanasi,Haryana,aeroplane,80,rainy,660,0,65,1.7
+Tuesday,morning,Punjab,Uttar Pradesh,aeroplane,70,rainy,760,0,120,2.4
+Tuesday,evening,Punjab,Haryana,aeroplane,40,rainy,530,0,20,4.1
+Monday,morning,Pune,Delhi,aeroplane,80,rainy,650,0,95,2.4
+Wednesday,morning,Punjab,Lucknow,train,140,autumn,1320,50,55,3.1
+Sunday,afternoon,Kolkata,Delhi,bus,290,autumn,100,380,140,1.6
+Monday,morning,Delhi,Kolkata,bus,180,spring,20,300,60,3.1
+Tuesday,evening,Haryana,Lucknow,train,230,rainy,1930,760,135,1.0
+Friday,morning,Delhi,Punjab,train,200,winter,1970,560,65,1.9
+Thursday,afternoon,Pune,Haryana,bus,310,spring,30,310,30,4.6
+Thursday,morning,Haryana,Kolkata,train,180,summer,1000,590,10,4.2
+Tuesday,afternoon,Pune,Delhi,bus,290,autumn,90,100,135,1.0
+Sunday,morning,Kolkata,Varanasi,bus,150,rainy,70,480,135,1.1
+Tuesday,evening,Punjab,Delhi,train,260,rainy,1390,640,135,2.8
+Thursday,evening,Uttar Pradesh,Kolkata,train,240,spring,1940,200,50,3.3
+Monday,morning,Kolkata,Pune,train,270,autumn,1150,220,110,1.6
+Thursday,morning,Haryana,Kolkata,bus,380,spring,60,130,80,2.0
+Friday,morning,Varanasi,Haryana,train,210,winter,1140,400,10,4.0
+Saturday,evening,Punjab,Kolkata,aeroplane,40,rainy,590,0,65,1.0
+Sunday,morning,Varanasi,Uttar Pradesh,train,130,summer,1170,140,90,1.4
+Thursday,evening,Varanasi,Uttar Pradesh,aeroplane,60,rainy,520,0,130,1.4
+Tuesday,morning,Varanasi,Kolkata,train,240,rainy,1470,700,40,4.0
+Wednesday,afternoon,Kolkata,Pune,aeroplane,70,rainy,850,0,85,2.3
+Wednesday,evening,Haryana,Punjab,aeroplane,30,rainy,780,0,90,2.5
+Wednesday,afternoon,Uttar Pradesh,Kolkata,bus,330,winter,50,100,120,2.7
+Friday,afternoon,Kolkata,Uttar Pradesh,aeroplane,90,rainy,720,0,70,2.6
+Tuesday,morning,Varanasi,Haryana,aeroplane,30,rainy,540,0,20,4.5
+Wednesday,morning,Delhi,Punjab,aeroplane,100,rainy,720,0,120,2.8
+Saturday,afternoon,Kolkata,Pune,train,220,rainy,1920,820,120,2.7
+Thursday,evening,Kolkata,Delhi,aeroplane,70,rainy,650,0,60,3.2
+Thursday,evening,Kolkata,Delhi,bus,270,spring,110,360,95,2.7
+Wednesday,morning,Pune,Lucknow,bus,360,winter,90,480,100,1.9
+Wednesday,afternoon,Haryana,Punjab,aeroplane,60,rainy,540,0,20,4.3
+Sunday,morning,Kolkata,Punjab,train,270,spring,1540,220,95,1.7
+Wednesday,evening,Delhi,Varanasi,aeroplane,30,rainy,750,0,20,4.7
+Wednesday,evening,Punjab,Delhi,aeroplane,50,rainy,770,0,70,2.0
+Friday,morning,Haryana,Kolkata,train,130,rainy,990,740,55,3.1
+Wednesday,morning,Uttar Pradesh,Pune,aeroplane,70,rainy,770,0,35,3.5
+Thursday,afternoon,Uttar Pradesh,Haryana,aeroplane,100,rainy,600,0,145,2.3
+Saturday,afternoon,Haryana,Kolkata,train,280,autumn,500,630,5,4.0
+Friday,morning,Lucknow,Punjab,train,250,spring,1130,520,65,2.5
+Thursday,morning,Varanasi,Delhi,train,160,winter,1440,190,140,1.6
+Sunday,afternoon,Delhi,Punjab,bus,300,rainy,80,950,60,3.4
+Sunday,morning,Delhi,Lucknow,aeroplane,60,rainy,650,0,15,5.0
+Sunday,afternoon,Lucknow,Varanasi,aeroplane,70,rainy,810,0,115,1.0
+Tuesday,morning,Delhi,Varanasi,aeroplane,110,rainy,750,0,100,2.6
+Friday,evening,Pune,Kolkata,bus,130,spring,20,30,15,4.3
+Friday,afternoon,Punjab,Varanasi,bus,130,spring,70,470,130,1.4
+Thursday,morning,Uttar Pradesh,Haryana,bus,310,spring,60,340,95,1.6
+Friday,afternoon,Haryana,Pune,aeroplane,30,rainy,740,0,120,1.7
+Monday,morning,Kolkata,Varanasi,aeroplane,70,rainy,610,0,75,2.4
+Friday,morning,Varanasi,Uttar Pradesh,bus,390,autumn,30,20,70,1.3
+Sunday,morning,Uttar Pradesh,Pune,bus,190,summer,120,20,5,4.4
+Sunday,afternoon,Varanasi,Delhi,bus,100,winter,50,190,45,3.3
+Thursday,morning,Varanasi,Pune,train,190,winter,1410,530,30,4.9
+Thursday,evening,Kolkata,Pune,aeroplane,70,rainy,690,0,145,2.9
+Monday,morning,Punjab,Pune,aeroplane,40,rainy,770,0,15,4.4
+Sunday,morning,Uttar Pradesh,Punjab,bus,360,spring,70,470,60,3.9
+Sunday,morning,Punjab,Uttar Pradesh,train,120,rainy,1140,600,80,1.9
+Sunday,evening,Lucknow,Uttar Pradesh,train,260,autumn,1250,500,140,1.1
+Wednesday,afternoon,Haryana,Punjab,bus,150,winter,30,70,55,3.9
+Friday,afternoon,Delhi,Haryana,aeroplane,30,rainy,680,0,5,4.7
+Friday,afternoon,Kolkata,Pune,bus,310,autumn,50,200,10,4.4
+Sunday,evening,Delhi,Uttar Pradesh,bus,340,summer,80,230,65,2.3
+Monday,evening,Punjab,Delhi,bus,100,rainy,60,540,60,3.9
+Thursday,evening,Lucknow,Pune,aeroplane,50,rainy,740,0,130,2.7
+Wednesday,afternoon,Uttar Pradesh,Delhi,train,170,spring,1040,140,90,2.7
+Saturday,afternoon,Pune,Punjab,train,140,rainy,910,470,35,3.8
+Tuesday,afternoon,Punjab,Uttar Pradesh,aeroplane,40,rainy,580,0,90,2.7
+Thursday,morning,Varanasi,Lucknow,bus,150,rainy,60,510,60,3.4
+Thursday,afternoon,Varanasi,Punjab,train,220,spring,1600,270,25,4.4
+Sunday,evening,Kolkata,Uttar Pradesh,train,220,summer,1550,510,135,1.0
+Wednesday,evening,Varanasi,Uttar Pradesh,train,280,rainy,1280,630,50,3.1
+Sunday,afternoon,Haryana,Punjab,train,180,summer,1670,190,90,1.0
+Wednesday,afternoon,Varanasi,Punjab,bus,360,spring,90,270,25,4.1
+Tuesday,morning,Varanasi,Kolkata,train,150,winter,1400,170,75,1.0
+Sunday,afternoon,Haryana,Uttar Pradesh,bus,400,winter,20,100,105,1.5
+Friday,morning,Lucknow,Uttar Pradesh,aeroplane,90,rainy,800,0,90,1.1
+Tuesday,evening,Kolkata,Varanasi,train,160,rainy,1370,890,115,2.0
+Tuesday,afternoon,Delhi,Lucknow,bus,340,spring,50,20,55,3.4
+Thursday,afternoon,Uttar Pradesh,Haryana,bus,150,summer,80,460,20,4.4
+Thursday,evening,Pune,Lucknow,bus,100,rainy,90,620,25,4.3
+Friday,afternoon,Pune,Haryana,bus,360,spring,80,330,70,2.9
